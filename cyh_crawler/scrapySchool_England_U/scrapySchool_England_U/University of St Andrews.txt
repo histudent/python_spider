@@ -1,0 +1,9 @@
+(1406, "Data too long for column 'ucascode' at row 1")
+https://www.st-andrews.ac.uk/subjects/chemistry/materials-chemistry-mchem/
+========================
+(1406, "Data too long for column 'ucascode' at row 1")
+https://www.st-andrews.ac.uk/subjects/chemistry/chemistry-with-medicinal-chemistry-mchem/
+========================
+(1406, "Data too long for column 'ucascode' at row 1")
+https://www.st-andrews.ac.uk/subjects/chemistry/chemistry-mchem/
+========================

@@ -1,0 +1,9 @@
+(1366, "Incorrect integer value: 'module' for column 'duration_per' at row 1")
+
+========================
+(1366, "Incorrect integer value: 'consec' for column 'duration_per' at row 1")
+
+========================
+(1366, "Incorrect integer value: 'intake' for column 'duration_per' at row 1")
+
+========================

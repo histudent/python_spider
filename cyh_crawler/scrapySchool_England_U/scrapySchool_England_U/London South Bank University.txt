@@ -1,0 +1,471 @@
+(1366, "Incorrect integer value: '£6562.5' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/applied-computing-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/architecture-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/architectural-technology-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/accounting-finance-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/baking-science-technology-new-product-development-bsc-hons
+========================
+(1366, "Incorrect integer value: '£23125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/adult-nursing-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/advanced-vehicle-engineering-beng
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/architectural-engineering-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/built-environment-extended-degree
+========================
+(1366, "Incorrect integer value: '£16500' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/chiropractic-masters
+========================
+(1366, "Incorrect integer value: '£16500' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/childrens-nursing-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/business-management-human-resources
+========================
+(1366, "Incorrect integer value: '£6562.5' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/computer-systems-management-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/business-management-project-management-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/chemical-process-engineering-beng-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/business-management-marketing-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/business-management-finance
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-engineering-meng-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/computer-engineering-meng-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/building-surveying-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/computer-systems-networks-engineering-beng-hons
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', 'H804', '', 6, 6, 6, 6, 6, '', '', NULL, NULL, NULL, NULL, NULL, NULL,NUL' at line 1")
+http://www.lsbu.ac.uk/courses/course-finder/chemical-process-engineering-meng-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/computer-science-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/business-management-enterprise-entrepreneurship-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/computer-engineering-beng-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/civil-engineering-beng-hons
+========================
+(1366, "Incorrect integer value: '£6562.5' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/business-information-technology-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/business-management-with-law-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/bioscience-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/business-management-accounting-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/civil-engineering-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/building-services-engineering-beng-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/business-law-llb-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/criminology-with-politics-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/economics-finance-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/economics-enterprise-entrepreneurship-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/business-management-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/electrical-electronic-engineering-beng-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/business-management-with-economics-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/criminology-psychology-bsc-hons
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '4060', '', 7, 5, 5, 5, 5, '', '', NULL, NULL, NULL, NULL, NULL, NULL,NUL' at line 1")
+http://www.lsbu.ac.uk/courses/course-finder/health-visiting-community-public-health-nursing-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/education-studies-work-based
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '5201', '', NULL, NULL, NULL, NULL, NULL, '', '', NULL, NULL, NULL, NULL,' at line 1")
+http://www.lsbu.ac.uk/courses/course-finder/digital-technology-solutions-apprenticeship-network-engineer
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/human-geography-housing-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/fashion-promotion-marketing-ba-hons
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', 'B761', '', 7, 7, 7, 7, 7, '', '', NULL, NULL, NULL, NULL, NULL, NULL,NUL' at line 1")
+http://www.lsbu.ac.uk/courses/course-finder/learning-disability-nursing-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/journalism-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/law-criminology-llb-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/law-llb-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/marketing-public-relations-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/marketing-luxury-brand-management-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/marketing-project-management-ba-hons
+========================
+(1366, "Incorrect integer value: '£16500' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/occupational-therapy-bsc-hons-full-time
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/product-design-bsc-hons
+========================
+(1366, "Incorrect integer value: '£16500' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/physiotherapy-integrated-masters
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/politics-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/property-management-building-surveying-bsc-hons
+========================
+(1366, "Incorrect integer value: '£16500' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/physiotherapy-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/marketing-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/petroleum-engineering-beng-hons
+========================
+(1366, "Incorrect integer value: '£6562.5' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/information-technology-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/petroleum-engineering-meng-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/photography-ba-hons
+========================
+(1366, "Incorrect integer value: '£0' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/operating-department-practice-bsc-hons
+========================
+(1366, "Incorrect integer value: '£23125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/midwifery-bsc-hons
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', 'W390', '', 6, 6, 6, 6, 6, '', '', NULL, NULL, NULL, NULL, NULL, NULL,NUL' at line 1")
+http://www.lsbu.ac.uk/courses/course-finder/music-sound-design-ba-bsc
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/mechanical-engineering-beng-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/mechanical-engineering-meng-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/marketing-law-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/international-relations-sociology-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/marketing-human-resources-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/international-relations-criminology-ba-hons
+========================
+(1366, "Incorrect integer value: '£0' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/mental-health-nursing-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/marketing-advertising-digital-communications-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/marketing-enterprise-entrepreneurship-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/international-relations-politics-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/commercial-management-quantity-surveying-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/marketing-economics-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/human-nutrition-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/human-rights-llb-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/international-relations-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/human-nutrition-exercise-science-bsc
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/human-nutrition-psychology-bsc
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/human-geography-tourism-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/history-sociology-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/human-geography-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/human-geography-planning-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/history-politics-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/forensic-science-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/economics-human-resources-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/history-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/film-practice-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/film-studies-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/family-law-llb-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/history-criminology-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/events-entertainment-management-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/housing-policy-and-practice
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/english-creative-writing-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/engineering-product-design-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/engineering-extended-degree
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/electrical-engineering-and-power-electronics-meng-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/entertainment-media-law-llb-hons
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', 'L510,4608', '', 6, 6, 6, 6, 6, '', '', NULL, NULL, NULL, NULL, NULL, NUL' at line 1")
+http://www.lsbu.ac.uk/courses/course-finder/health-social-care-bsc
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/education-studies
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/economics-project-management-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/economics-business-management-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/economics-marketing-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/economics-law-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/economics-accounting-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/electrical-engineering-and-power-electronics-beng-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/drama-performance-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/bsc-hons-economics
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '5200', '', NULL, NULL, NULL, NULL, NULL, '', '', NULL, NULL, NULL, NULL,' at line 1")
+http://www.lsbu.ac.uk/courses/course-finder/digital-technology-solutions-apprenticeship-IT-consultant
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '5199', '', NULL, NULL, NULL, NULL, NULL, '', '', NULL, NULL, NULL, NULL,' at line 1")
+http://www.lsbu.ac.uk/courses/course-finder/digital-technology-solutions-apprenticeship-data-analyst
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '5202', '', NULL, NULL, NULL, NULL, NULL, '', '', NULL, NULL, NULL, NULL,' at line 1")
+http://www.lsbu.ac.uk/courses/course-finder/digital-technology-solutions-apprenticeship-software-engineer
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/digital-design-ba-hons
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '5198', '', NULL, NULL, NULL, NULL, NULL, '', '', NULL, NULL, NULL, NULL,' at line 1")
+http://www.lsbu.ac.uk/courses/course-finder/digital-technology-solutions-apprenticeship-cyber-security-analyst
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', 'TBC', '', 6, 6, 6, 6, 6, '', '', NULL, NULL, NULL, NULL, NULL, NULL,NULL' at line 1")
+http://www.lsbu.ac.uk/courses/course-finder/drama-and-applied-theatre-ba-hons
+========================
+(1366, "Incorrect integer value: '£16500' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/diagnostic-radiography-bsc-hons
+========================
+(1366, "Incorrect integer value: '£6562.5' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/data-science-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/criminology-law-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/criminology-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/criminal-law-llb-hons
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '5197', '', NULL, NULL, NULL, NULL, NULL, '', '', NULL, NULL, NULL, NULL,' at line 1")
+http://www.lsbu.ac.uk/courses/course-finder/digital-technology-solutions-apprenticeship-business-analyst
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/creative-advertising-marketing-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/baking-science-and-technology-nutrition-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/construction-management-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/music-industry-management-with-marketing-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/quantity-surveying-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/urban-environmental-planning-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/sport-exercise-science-bsc-hons
+========================
+(1366, "Incorrect integer value: '£6562.5' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/web-development-it-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/sociology-with-politics-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/vfx-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/marketing-accounting-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/sports-coaching-analysis-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/tourism-hospitality-leisure-management-ba-hons
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', 'C632', '', 7, 6.5, 6.5, 6.5, 6.5, '', '', NULL, NULL, NULL, NULL, NULL, ' at line 1")
+http://www.lsbu.ac.uk/courses/course-finder/sport-rehabilitation-integrated-masters
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/sociology-criminology-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/sociology-bsc-hons
+========================
+(1366, "Incorrect integer value: '£16500' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/therapeutic-radiography-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/applied-sciences-extended-degree-programme
+========================
+(1366, "Incorrect integer value: '£16500' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/sport-rehabilitation-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/marketing-finance-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/real-estate-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/psychology-with-criminology
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/psychology-forensic-psychology-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/psychology-clinical-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/psychology-child-development-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/psychology-addiction-psychology-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/psychology-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/social-work-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/psychological-counselling-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/electrical-and-electronic-engineering-meng-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/game-design-development-ba-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/psychology-health-and-nutrition-bsc-hons
+========================
+(1366, "Incorrect integer value: '£13125' for column 'tuition_fee' at row 1")
+http://www.lsbu.ac.uk/courses/course-finder/sport-psychology-bsc-hons
+========================

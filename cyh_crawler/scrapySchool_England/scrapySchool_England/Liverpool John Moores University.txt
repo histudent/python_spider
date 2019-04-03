@@ -1,0 +1,39 @@
+(1366, "Incorrect string value: '\\xF0\\x9F\\x93\\xA3 C...' for column 'overview_en' at row 1")
+https://www.ljmu.ac.uk/study/courses/postgraduates/art-and-design
+========================
+(1366, "Incorrect string value: '\\xF0\\x9F\\x93\\xA3 C...' for column 'overview_en' at row 1")
+https://www.ljmu.ac.uk/study/courses/postgraduates/architecture-march
+========================
+(1366, "Incorrect string value: '\\xF0\\x9F\\x93\\xA3 C...' for column 'overview_en' at row 1")
+https://www.ljmu.ac.uk/study/courses/postgraduates/art-in-science-ma
+========================
+(1366, "Incorrect string value: '\\xF0\\x9F\\x93\\xA3 C...' for column 'overview_en' at row 1")
+https://www.ljmu.ac.uk/study/courses/postgraduates/contemporary-art
+========================
+(1366, "Incorrect string value: '\\xF0\\x9F\\x93\\xA3 C...' for column 'overview_en' at row 1")
+https://www.ljmu.ac.uk/study/courses/postgraduates/design-discourse-and-practice
+========================
+(1366, "Incorrect string value: '\\xF0\\x9F\\x93\\xA3 C...' for column 'overview_en' at row 1")
+https://www.ljmu.ac.uk/study/courses/postgraduates/fashion-studies
+========================
+(1366, "Incorrect string value: '\\xF0\\x9F\\x93\\xA3 C...' for column 'overview_en' at row 1")
+https://www.ljmu.ac.uk/study/courses/postgraduates/fashion-innovation-and-realisation
+========================
+(1366, "Incorrect string value: '\\xF0\\x9F\\x93\\xA3 C...' for column 'overview_en' at row 1")
+https://www.ljmu.ac.uk/study/courses/postgraduates/exhibition-studies-ma
+========================
+(1366, "Incorrect string value: '\\xF0\\x9F\\x93\\xA3 C...' for column 'overview_en' at row 1")
+https://www.ljmu.ac.uk/study/courses/postgraduates/international-events-management
+========================
+(1366, "Incorrect string value: '\\xF0\\x9F\\x93\\xA3 C...' for column 'overview_en' at row 1")
+https://www.ljmu.ac.uk/study/courses/postgraduates/graphic-design-illustration
+========================
+(1366, "Incorrect string value: '\\xF0\\x9F\\x93\\xA3 C...' for column 'overview_en' at row 1")
+https://www.ljmu.ac.uk/study/courses/postgraduates/fine-art
+========================
+(1366, "Incorrect string value: '\\xF0\\x9F\\x93\\xA3 C...' for column 'overview_en' at row 1")
+https://www.ljmu.ac.uk/study/courses/postgraduates/international-tourism-management
+========================
+(1366, "Incorrect string value: '\\xF0\\x9F\\x93\\xA3 C...' for column 'overview_en' at row 1")
+https://www.ljmu.ac.uk/study/courses/postgraduates/urban-design
+========================

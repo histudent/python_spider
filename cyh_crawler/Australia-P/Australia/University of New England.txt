@@ -1,0 +1,135 @@
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BENSC
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BILS
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/HBPSYC
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BIS
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BZOOL
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BLS
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BNURS
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BSOCWK
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BCEP
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BURP
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BBUS
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BEXSS
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '',NULL, '', '', '', '','', '', '', '', '','', '', '', '', '','', '', '', '',' at line 1")
+https://my.une.edu.au/courses/2019/courses/BCS
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BLANG
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BSIEP
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BAGB
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BEDK12
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BEDSSC
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BCRIM
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BBIOSC
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BEDSA
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BLAWS
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BAGR
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BA
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BCOMP
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BEDK6
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BACC
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BLAW01
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BPSYSC
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BGEOSC
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BRURSC
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BHIP
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BEDSMT
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '',NULL, '', '', '', '','', '', '', '', '','', '', '', '', '','', '', '', '',' at line 1")
+https://my.une.edu.au/courses/2019/courses/BTHP
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BEC
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BLIB
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BAGPM
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BSUS
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BSCST
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BEDS
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BAGREC
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BSC
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BSOCSC
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://my.une.edu.au/courses/2019/courses/BMC
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '',NULL, '', '', '', '','', '', '', '', '','', '', '', '', '','', '', '', '',' at line 1")
+https://my.une.edu.au/courses/2019/courses/BAUD
+========================

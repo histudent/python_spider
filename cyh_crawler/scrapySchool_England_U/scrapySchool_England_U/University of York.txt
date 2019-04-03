@@ -1,0 +1,15 @@
+(1406, "Data too long for column 'major_type1' at row 1")
+https://www.york.ac.uk/study/undergraduate/courses/meng-computer-science-with-cyber-security-industry/
+========================
+(1406, "Data too long for column 'major_type1' at row 1")
+https://www.york.ac.uk/study/undergraduate/courses/mchem-chemistry-atmosphere-environment-industry/
+========================
+(1406, "Data too long for column 'major_type1' at row 1")
+https://www.york.ac.uk/study/undergraduate/courses/mchem-chemistry-atmosphere-environment-year-abroad/
+========================
+(1406, "Data too long for column 'major_type1' at row 1")
+https://www.york.ac.uk/study/undergraduate/courses/mchem-chemistry-green-principles-industry/
+========================
+(1406, "Data too long for column 'major_type1' at row 1")
+https://www.york.ac.uk/study/undergraduate/courses/ba-politics-international-relations-placement/
+========================

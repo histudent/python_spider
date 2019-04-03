@@ -1,0 +1,39 @@
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+https://www2.mmu.ac.uk/study/postgraduate/course/msc-automotive-engineering/
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+https://www2.mmu.ac.uk/study/postgraduate/course/msc-international-tourism-and-hospitality-management/
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+https://www2.mmu.ac.uk/study/postgraduate/course/ma-multimedia-journalism/
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+https://www2.mmu.ac.uk/study/postgraduate/course/msc-urban-studies-21st-century-cities/
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+https://www2.mmu.ac.uk/study/postgraduate/course/msc-forensic-psychology-bps-accredited/
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+https://www2.mmu.ac.uk/study/postgraduate/course/ma-exercise-and-sport-sport-and-leisure-history/
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+https://www2.mmu.ac.uk/study/postgraduate/course/msc-public-relations/
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+https://www2.mmu.ac.uk/study/postgraduate/course/msc-psychology-and-psychology-by-research/
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+https://www2.mmu.ac.uk/study/postgraduate/course/graduate-diploma-in-law-common-professional-examination/
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+https://www2.mmu.ac.uk/study/postgraduate/course/top-up-llm-llm-in-legal-practice/
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+https://www2.mmu.ac.uk/study/postgraduate/course/msc-rail-engineering/
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+https://www2.mmu.ac.uk/study/postgraduate/course/msc-pgdip-psychology-conversion/
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+https://www2.mmu.ac.uk/study/postgraduate/course/msc-psychology-and-criminology/
+========================

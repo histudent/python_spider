@@ -1,0 +1,141 @@
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/clinical-midwifery-bsc-hons-degree/clinical-midwifery-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/health-professional-practice-bsc-hons-bsc/health-professional-practice-bsc-hons-bsc-top-up.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/forensic-road-collision-investigation-foundation-degree-(fdsc).aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/associate-ambulance-practice-fdsc/associate-ambulance-practice-diphe.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/clinical-midwifery-bsc-hons-degree/clinical-midwifery-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/health-professional-practice-bsc-hons-bsc/health-professional-practice-bsc-hons-bsc-top-up.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/forensic-road-collision-investigation-foundation-degree-(fdsc).aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/footwear-fda-foundation-degree/footwear-fda-foundation-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/associate-ambulance-practice-fdsc/associate-ambulance-practice-diphe.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/clinical-midwifery-bsc-hons-degree/clinical-midwifery-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/associate-ambulance-practice-fdsc/associate-ambulance-practice-diphe.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/clinical-midwifery-bsc-hons-degree/clinical-midwifery-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/footwear-fda-foundation-degree/footwear-fda-foundation-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/forensic-road-collision-investigation-foundation-degree-(fdsc).aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/health-professional-practice-bsc-hons-bsc/health-professional-practice-bsc-hons-bsc-top-up.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/health-studies-ba-hons/health-studies-ba-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/healthcare-science-audiology-bsc-hons-degree/healthcare-science-audiology-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/healthcare-science-audiology-bsc-hons-degree/healthcare-science-audiology-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/midwifery-pre-registration-bsc-hons-degree/midwifery-pre-registration-midwifery-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/non-medical-prescribing-bsc-degree/non-medical-prescribing-bsc.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/learning-beyond-registration-professional/learning-beyond-registration-professional.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/paramedicine-bsc-hons/paramedicine-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/nursing-with-registration-mental-health-nursing-degree/nursing-with-registration-mental-health-nursing-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/nursing-with-registration-learning-disability-degree/nursing-with-registration-learning-disability-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/nursing-with-registration-adult-nursing-degree/nursing-with-registration-adult-nursing-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/nursing-with-registration-adult-nursing-degree/nursing-with-registration-adult-nursing-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/probation/probation.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/practice-nursing-bsc-degree/practice-nursing-bsc.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/work-with-communities-and-young-people-fda-degree/working-with-communities-and-young-people-fda-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/policing-ba-hons-degree/policing-ba-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/nursing-with-registration-child-nursing-degree/nursing-with-registration-child-nursing-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/specialist-community-public-health-nursing-degree/specialist-community-public-health-nursing-with-nmc-registration.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/undergraduate-courses/professional-studies-in-forensic-road-collision-investigation-.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+http://www.dmu.ac.uk/study/courses/undergraduate-courses/policing-ba-hons-degree/policing-ba-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+http://www.dmu.ac.uk/study/courses/undergraduate-courses/nursing-with-registration-mental-health-nursing-degree/nursing-with-registration-mental-health-nursing-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+http://www.dmu.ac.uk/study/courses/undergraduate-courses/nursing-with-registration-adult-nursing-degree/nursing-with-registration-adult-nursing-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+http://www.dmu.ac.uk/study/courses/undergraduate-courses/healthcare-science-audiology-bsc-hons-degree/healthcare-science-audiology-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+http://www.dmu.ac.uk/study/courses/undergraduate-courses/nursing-with-registration-learning-disability-degree/nursing-with-registration-learning-disability-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+http://www.dmu.ac.uk/study/courses/undergraduate-courses/nursing-with-registration-child-nursing-degree/nursing-with-registration-child-nursing-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+http://www.dmu.ac.uk/study/courses/undergraduate-courses/midwifery-pre-registration-bsc-hons-degree/midwifery-pre-registration-midwifery-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+http://www.dmu.ac.uk/study/courses/undergraduate-courses/midwifery-pre-registration-bsc-hons-degree/midwifery-pre-registration-midwifery-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+http://www.dmu.ac.uk/study/courses/undergraduate-courses/nursing-with-registration-mental-health-nursing-degree/nursing-with-registration-mental-health-nursing-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+http://www.dmu.ac.uk/study/courses/undergraduate-courses/policing-ba-hons-degree/policing-ba-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+http://www.dmu.ac.uk/study/courses/undergraduate-courses/nursing-with-registration-adult-nursing-degree/nursing-with-registration-adult-nursing-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+http://www.dmu.ac.uk/study/courses/undergraduate-courses/nursing-with-registration-child-nursing-degree/nursing-with-registration-child-nursing-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+http://www.dmu.ac.uk/study/courses/undergraduate-courses/nursing-with-registration-learning-disability-degree/nursing-with-registration-learning-disability-bsc-hons.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+http://www.dmu.ac.uk/study/courses/undergraduate-courses/healthcare-science-audiology-bsc-hons-degree/healthcare-science-audiology-bsc-hons.aspx
+========================

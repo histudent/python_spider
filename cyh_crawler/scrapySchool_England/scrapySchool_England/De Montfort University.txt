@@ -1,0 +1,432 @@
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/business-economics-and-international-relations-msc/business-economics-and-international-relations-msc.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/business-management-and-sport-msc/business-management-and-sport-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/business-economics-and-risk-management-msc-degree/business-economics-and-risk-management-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/business-economics-and-business-analytics-degree/business-economics-and-business-analytics-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/arts-research-mphil-phd-degree/arts-research-mphil-phd-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/architecture-research-mphil-phd-degree/architecture-research-mphil-phd-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/business-economics-and-business-finance-msc-degree/business-economics-and-business-finance-msc.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/architecture-pedr/architecture-professional-experience-development-record.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/business-economics-and-marketing-msc-degree/business-economics-and-marketing-msc.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/business-intelligence-systems-and-data-mining/business-intelligence-systems-and-data-mining-msc-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/architecture-march-degree/architecture-march-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/advanced-practice-in-urgent-primary-care-pg-dip/advanced-practice-in-urgent-primary-care-pg-dip-pg-cert.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/architectural-design-ma-degree/architectural-design-ma-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/arts-research-mphil-phd-degree/arts-research-mphil-phd-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/business-economics-and-marketing-msc-degree/business-economics-and-marketing-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/business-economics-and-business-analytics-degree/business-economics-and-business-analytics-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/architecture-research-mphil-phd-degree/architecture-research-mphil-phd-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/business-economics-and-international-relations-msc/business-economics-and-international-relations-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/business-economics-and-risk-management-msc-degree/business-economics-and-risk-management-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/advertising-public-relations-management-msc-degree/advertising-and-public-relations-management-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/architectural-practice-postgraduate-diploma/architectural-practice-postgraduate-diploma.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/advanced-practice-in-urgent-primary-care-pg-dip/advanced-practice-in-urgent-primary-care-pg-dip-pg-cert.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/energy-and-sustainable-building-design/engineering-and-sustainable-building-design-msc-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/diplomacy-and-world-order-ma-degree/diplomacy-and-world-order-ma.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/design-research-mphil-phd-degree/design-research-mphil-phd-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/education-practice-mapg-dippg-cert/education-practice.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/electronic-engineering/electronic-engineering-msc-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/design-ma-degree/design-ma-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/data-analytics-msc-degree/data-analytics-msc-degrees.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/business-of-motorsport/business-of-motorsport-ma.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/clinical-pharmacy-mscpg-dippg-cert/clinical-pharmacy.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/advanced-biomedical-science-mscpg-dippg-cert/advanced-biomedical-science.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/advanced-clinical-practice/advanced-clinical-practice-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/accounting-and-finance-msc-degree/accounting-and-finance-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/film-business-production-accountancy-msc/film-business-and-production-accountancy-ma-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/fc4p/forensic-computing-for-practitioners-professional-qualification.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/master-of-business-administration-executive/executive-mba-emba.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/independent-study-leicester-media-school/independent-study-leicester-media-school-ma-msc-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/engineering-management/engineering-management-msc-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/business-law-international-business-law-llm-dl/business-law-international-business-law-llm-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/humanities-research-mphil-phd-degree/humanities-research-mphil-phd-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/international-human-rights-law-llm-degree/international-human-rights-law-llm-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/forensic-accounting-msc-degree/forensic-accounting-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/nursing-specialist-district-nursing-with-nmc-spq/nursing-specialist-district-nursing-with-nmc-recordable-spq.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/medical-leadership-and-advanced-professional-skill/medical-leadership-education-and-research.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/mechatronics/mechatronics-msc-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/non-medical-prescribing-pg-cert/non-medical-prescribing.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/legal-practice-course-lpc-part-time/legal-practice-course-part-time.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/masters-in-research-applied-health-studies-mres/masters-in-research-applied-health-studies.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/master-of-business-administration-global-mba/master-of-business-administration-mba-global.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/management-law-and-humanities-of-sport-ma-degree/management-law-and-humanities-of-sport-ma-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/master-of-business-administration-lawyers-mba/master-of-business-administration-mba-lawyers-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/masters-by-research-mamsc/masters-by-research.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/marketing-management-msc-degree/marketing-management-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/environmental-law-and-practice-llm-degree/environmental-law-and-practice-llm-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/international-business-law-llm-degree/international-business-law-llm.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/medical-law-and-ethics-llm-degree/medical-law-and-ethics-llm-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/employment-law-and-practice-llm-degree/employment-law-and-practice-llm-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/food-law-llm-degree/food-law-llm-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/legal-practice-course-lpc-full-time/legal-practice-course-full-time.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/graduate-diploma-in-law-gdl-cpe-full-time/law-graduate-diploma-gdl-cpe-graduate-diploma-full-time.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/international-business-and-hrm-msc-degree/international-business-and-human-resource-management-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/international-business-and-management-msc-degree/international-business-and-management-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/graduate-diploma-in-law-gdl-cpe-part-time/law-graduate-diploma-gdl-cpe-graduate-diploma-part-time.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/international-film-production/international-film-production-ma-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/intermediate-dysphagia-msc/intermediate-dysphagia.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/international-business-and-finance-msc-degree/international-business-and-finance-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/international-business-and-marketing-msc-degree/international-business-and-marketing-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/youth-work-health-and-community-development-pq-m/youth-work-health-and-community-development.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/international-business-entrepreneurship-msc-degree/international-business-and-entrepreneurship-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/intelligent-systems-and-robotics/intelligent-systems-and-robotics-msc-degree.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/strategic-and-digital-marketing-msc-degree/strategic-and-digital-marketing-msc.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/youth-work-and-community-development-pq-mapg-dip/youth-work-and-community-development.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/sports-law-pg-cert-degree/sports-law-pg-cert.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/human-resource-management-ma-pg-dip-part-time/human-resource-management-ma-pg-dip-part-time.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/sports-law-llm-degree-distance-learning/sports-law-llm-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/youth-and-community-development-studies-mapg-dip/youth-and-community-development-studies.aspx
+========================
+(1366, "Incorrect integer value: '' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/human-resource-management-ma-pg-dip-full-time/human-resource-management-ma-pg-dip-full-time.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/architecture-research-mphil-phd-degree/architecture-research-mphil-phd-degree.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/arts-research-mphil-phd-degree/arts-research-mphil-phd-degree.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/architecture-pedr/architecture-professional-experience-development-record.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/advanced-practice-in-urgent-primary-care-pg-dip/advanced-practice-in-urgent-primary-care-pg-dip-pg-cert.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/design-research-mphil-phd-degree/design-research-mphil-phd-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/energy-and-sustainable-building-design/engineering-and-sustainable-building-design-msc-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/clinical-pharmacy-mscpg-dippg-cert/clinical-pharmacy.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/advanced-clinical-practice/advanced-clinical-practice-msc.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/humanities-research-mphil-phd-degree/humanities-research-mphil-phd-degree.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/fc4p/forensic-computing-for-practitioners-professional-qualification.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/independent-study-leicester-media-school/independent-study-leicester-media-school-ma-msc-degree.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/international-human-rights-law-llm-degree/international-human-rights-law-llm-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/sports-law-llm-degree-distance-learning/sports-law-llm-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/master-of-business-administration-lawyers-mba/master-of-business-administration-mba-lawyers-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/medical-law-and-ethics-llm-degree/medical-law-and-ethics-llm-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/environmental-law-and-practice-llm-degree/environmental-law-and-practice-llm-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/employment-law-and-practice-llm-degree/employment-law-and-practice-llm-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/food-law-llm-degree/food-law-llm-distance-learning.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/engineering-management/engineering-management-msc-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/energy-and-sustainable-development/energy-and-sustainable-development-msc-degree.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/intermediate-dysphagia-msc/intermediate-dysphagia.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/specialist-community-public-health-nursing-mscpg/specialist-community-public-health-nursing.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/social-work-ma/social-work-ma.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/risk-management-msc-distance-learning-degree/risk-management-msc-distance-learning.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/management-law-and-humanities-of-sport-ma-degree/management-law-and-humanities-of-sport-ma-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/practice-certificate-in-independent-prescribing/practice-certificate-in-independent-prescribing-for-pharmacists.aspx
+========================
+(1366, "Incorrect integer value: 'N/A' for column 'tuition_fee' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/association-chartered-certified-accountants-acca/association-of-chartered-certified-accountants-course-acca.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/practice-nursing-pg-cert/practice-nursing.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/advanced-practice-in-urgent-primary-care-pg-dip/advanced-practice-in-urgent-primary-care-pg-dip-pg-cert.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/energy-and-sustainable-building-design/engineering-and-sustainable-building-design-msc-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/clinical-pharmacy-mscpg-dippg-cert/clinical-pharmacy.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/advanced-clinical-practice/advanced-clinical-practice-msc.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/independent-study-leicester-media-school/independent-study-leicester-media-school-ma-msc-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/specialist-community-public-health-nursing-mscpg/specialist-community-public-health-nursing.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/association-chartered-certified-accountants-acca/association-of-chartered-certified-accountants-course-acca.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/practice-nursing-pg-cert/practice-nursing.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/social-work-ma/social-work-ma.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/practice-certificate-in-independent-prescribing/practice-certificate-in-independent-prescribing-for-pharmacists.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/engineering-management/engineering-management-msc-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/management-law-and-humanities-of-sport-ma-degree/management-law-and-humanities-of-sport-ma-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/energy-and-sustainable-development/energy-and-sustainable-development-msc-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/management-law-and-humanities-of-sport-ma-degree/management-law-and-humanities-of-sport-ma-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/association-chartered-certified-accountants-acca/association-of-chartered-certified-accountants-course-acca.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/practice-certificate-in-independent-prescribing/practice-certificate-in-independent-prescribing-for-pharmacists.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/energy-and-sustainable-building-design/engineering-and-sustainable-building-design-msc-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/advanced-practice-in-urgent-primary-care-pg-dip/advanced-practice-in-urgent-primary-care-pg-dip-pg-cert.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/clinical-pharmacy-mscpg-dippg-cert/clinical-pharmacy.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/advanced-clinical-practice/advanced-clinical-practice-msc.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/independent-study-leicester-media-school/independent-study-leicester-media-school-ma-msc-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/engineering-management/engineering-management-msc-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/energy-and-sustainable-development/energy-and-sustainable-development-msc-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/management-law-and-humanities-of-sport-ma-degree/management-law-and-humanities-of-sport-ma-degree.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/specialist-community-public-health-nursing-mscpg/specialist-community-public-health-nursing.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/social-work-ma/social-work-ma.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/association-chartered-certified-accountants-acca/association-of-chartered-certified-accountants-course-acca.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/practice-certificate-in-independent-prescribing/practice-certificate-in-independent-prescribing-for-pharmacists.aspx
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.dmu.ac.uk/study/courses/postgraduate-courses/practice-nursing-pg-cert/practice-nursing.aspx
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+http://www.dmu.ac.uk/study/courses/postgraduate-courses/engineering-management/engineering-management-msc-degree.aspx
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+http://www.dmu.ac.uk/study/courses/postgraduate-courses/independent-study-leicester-media-school/independent-study-leicester-media-school-ma-msc-degree.aspx
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+http://www.dmu.ac.uk/study/courses/postgraduate-courses/human-resource-management-ma-pg-dip-full-time/human-resource-management-ma-pg-dip-full-time.aspx
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+http://www.dmu.ac.uk/study/courses/postgraduate-courses/social-work-ma/social-work-ma.aspx
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+http://www.dmu.ac.uk/study/courses/postgraduate-courses/energy-and-sustainable-development/energy-and-sustainable-development-msc-degree.aspx
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+http://www.dmu.ac.uk/study/courses/postgraduate-courses/business-law-law-llm-degree/business-law-law-llm.aspx
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+http://www.dmu.ac.uk/study/courses/postgraduate-courses/energy-and-sustainable-building-design/engineering-and-sustainable-building-design-msc-degree.aspx
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+http://www.dmu.ac.uk/study/courses/postgraduate-courses/energy-and-sustainable-development/energy-and-sustainable-development-msc-degree.aspx
+========================
+(1366, "Incorrect integer value: 'taught' for column 'degree_type' at row 1")
+http://www.dmu.ac.uk/study/courses/postgraduate-courses/international-business-law-llm-degree/international-business-law-llm.aspx
+========================

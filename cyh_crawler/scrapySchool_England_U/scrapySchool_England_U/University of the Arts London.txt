@@ -1,0 +1,33 @@
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.arts.ac.uk/subjects/textiles-and-materials/undergraduate/ba-hons-fashion-textiles-print-lcf
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.arts.ac.uk/subjects/textiles-and-materials/undergraduate/ba-hons-fashion-textiles-knit-lcf
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.arts.ac.uk/subjects/fashion-styling-and-make-up/undergraduate/ba-hons-hair-and-make-up-for-fashion-lcf
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.arts.ac.uk/colleges/london-college-of-fashion/courses
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.arts.ac.uk/subjects/fashion-business/undergraduate/ba-hons-fashion-visual-merchandising-and-branding-lcf
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.arts.ac.uk/subjects/textiles-and-materials/undergraduate/ba-hons-fashion-textiles-embroidery-lcf
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.arts.ac.uk/subjects/textiles-and-materials/undergraduate/ba-hons-fashion-textiles-print-lcf
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.arts.ac.uk/subjects/textiles-and-materials/undergraduate/ba-hons-fashion-textiles-embroidery-lcf
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.arts.ac.uk/subjects/fashion-styling-and-make-up/undergraduate/ba-hons-hair-and-make-up-for-fashion-lcf
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.arts.ac.uk/subjects/fashion-business/undergraduate/ba-hons-fashion-visual-merchandising-and-branding-lcf
+========================
+(1265, "Data truncated for column 'ielts' at row 1")
+https://www.arts.ac.uk/subjects/textiles-and-materials/undergraduate/ba-hons-fashion-textiles-knit-lcf
+========================

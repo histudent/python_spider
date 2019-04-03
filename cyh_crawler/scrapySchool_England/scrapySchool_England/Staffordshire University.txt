@@ -1,0 +1,303 @@
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-2,2019-9', '<div><ul><li>Access to state of the art specialist laborato' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03286.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div><p><strong>The closing date has now passed for 18/19 entry ' at line 1")
+http://www.staffs.ac.uk/course/SSTK-11752.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09941.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</p></li><li><p>The only distance-learning postgraduate quali' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09940.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>Postgraduate Courses in Clinical Psychology</strong></p><p>\xa0' at line 1")
+http://www.staffs.ac.uk/course/SSTK-00783.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div><p>Cognitive Behavioural Therapy is a type of psychotherapy ' at line 1")
+http://www.staffs.ac.uk/course/SOFF-10186.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09939.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>LPC Course Administrator</p></div>', 'fulltime', 'taught', 1,' at line 1")
+http://www.staffs.ac.uk/course/SSTK-01276.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div>applications@lawcabs.ac.uk</p><p>Any questions, please conta' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03503.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-2,2019-9', '<div><ul><li>Access to state of the art specialist laborato' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03286.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div><p><strong>The closing date has now passed for 18/19 entry ' at line 1")
+http://www.staffs.ac.uk/course/SSTK-11752.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09941.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>Postgraduate Courses in Clinical Psychology</strong></p><p>\xa0' at line 1")
+http://www.staffs.ac.uk/course/SSTK-00783.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</p></li><li><p>The only distance-learning postgraduate quali' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09940.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div><p>Cognitive Behavioural Therapy is a type of psychotherapy ' at line 1")
+http://www.staffs.ac.uk/course/SOFF-10186.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09939.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div>applications@lawcabs.ac.uk</p><p>Any questions, please conta' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03503.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>LPC Course Administrator</p></div>', 'fulltime', 'taught', 1,' at line 1")
+http://www.staffs.ac.uk/course/SSTK-01276.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-2,2019-9', '<div><ul><li>Access to state of the art specialist laborato' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03286.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div><p><strong>The closing date has now passed for 18/19 entry ' at line 1")
+http://www.staffs.ac.uk/course/SSTK-11752.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09941.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</p></li><li><p>The only distance-learning postgraduate quali' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09940.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div><p>Cognitive Behavioural Therapy is a type of psychotherapy ' at line 1")
+http://www.staffs.ac.uk/course/SOFF-10186.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>Postgraduate Courses in Clinical Psychology</strong></p><p>\xa0' at line 1")
+http://www.staffs.ac.uk/course/SSTK-00783.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09939.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>LPC Course Administrator</p></div>', 'fulltime', 'taught', 1,' at line 1")
+http://www.staffs.ac.uk/course/SSTK-01276.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div>applications@lawcabs.ac.uk</p><p>Any questions, please conta' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03503.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div><p><strong>The closing date has now passed for 18/19 entry ' at line 1")
+http://www.staffs.ac.uk/course/SSTK-11752.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-2,2019-9', '<div><ul><li>Access to state of the art specialist laborato' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03286.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09941.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</p></li><li><p>The only distance-learning postgraduate quali' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09940.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div><p>Cognitive Behavioural Therapy is a type of psychotherapy ' at line 1")
+http://www.staffs.ac.uk/course/SOFF-10186.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>Postgraduate Courses in Clinical Psychology</strong></p><p>\xa0' at line 1")
+http://www.staffs.ac.uk/course/SSTK-00783.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09939.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>LPC Course Administrator</p></div>', 'fulltime', 'taught', 1,' at line 1")
+http://www.staffs.ac.uk/course/SSTK-01276.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div>applications@lawcabs.ac.uk</p><p>Any questions, please conta' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03503.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-2,2019-9', '<div><ul><li>Access to state of the art specialist laborato' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03286.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div><p><strong>The closing date has now passed for 18/19 entry ' at line 1")
+http://www.staffs.ac.uk/course/SSTK-11752.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09941.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</p></li><li><p>The only distance-learning postgraduate quali' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09940.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div><p>Cognitive Behavioural Therapy is a type of psychotherapy ' at line 1")
+http://www.staffs.ac.uk/course/SOFF-10186.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>Postgraduate Courses in Clinical Psychology</strong></p><p>\xa0' at line 1")
+http://www.staffs.ac.uk/course/SSTK-00783.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09939.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div>applications@lawcabs.ac.uk</p><p>Any questions, please conta' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03503.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>LPC Course Administrator</p></div>', 'fulltime', 'taught', 1,' at line 1")
+http://www.staffs.ac.uk/course/SSTK-01276.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-2,2019-9', '<div><ul><li>Access to state of the art specialist laborato' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03286.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div><p><strong>The closing date has now passed for 18/19 entry ' at line 1")
+http://www.staffs.ac.uk/course/SSTK-11752.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09941.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</p></li><li><p>The only distance-learning postgraduate quali' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09940.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div><p>Cognitive Behavioural Therapy is a type of psychotherapy ' at line 1")
+http://www.staffs.ac.uk/course/SOFF-10186.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>Postgraduate Courses in Clinical Psychology</strong></p><p>\xa0' at line 1")
+http://www.staffs.ac.uk/course/SSTK-00783.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09939.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>LPC Course Administrator</p></div>', 'fulltime', 'taught', 1,' at line 1")
+http://www.staffs.ac.uk/course/SSTK-01276.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div>applications@lawcabs.ac.uk</p><p>Any questions, please conta' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03503.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-2,2019-9', '<div><ul><li>Access to state of the art specialist laborato' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03286.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09941.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div><p><strong>The closing date has now passed for 18/19 entry ' at line 1")
+http://www.staffs.ac.uk/course/SSTK-11752.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</p></li><li><p>The only distance-learning postgraduate quali' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09940.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div><p>Cognitive Behavioural Therapy is a type of psychotherapy ' at line 1")
+http://www.staffs.ac.uk/course/SOFF-10186.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>Postgraduate Courses in Clinical Psychology</strong></p><p>\xa0' at line 1")
+http://www.staffs.ac.uk/course/SSTK-00783.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09939.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>LPC Course Administrator</p></div>', 'fulltime', 'taught', 1,' at line 1")
+http://www.staffs.ac.uk/course/SSTK-01276.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div>applications@lawcabs.ac.uk</p><p>Any questions, please conta' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03503.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09941.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09939.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</p></li><li><p>The only distance-learning postgraduate quali' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09940.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>Postgraduate Courses in Clinical Psychology</strong></p><p>\xa0' at line 1")
+http://www.staffs.ac.uk/course/SSTK-00783.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div><p><strong>The closing date has now passed for 18/19 entry ' at line 1")
+http://www.staffs.ac.uk/course/SSTK-11752.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-2,2019-9', '<div><ul><li>Access to state of the art specialist laborato' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03286.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>LPC Course Administrator</p></div>', 'fulltime', 'taught', 1,' at line 1")
+http://www.staffs.ac.uk/course/SSTK-01276.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div><p>Cognitive Behavioural Therapy is a type of psychotherapy ' at line 1")
+http://www.staffs.ac.uk/course/SOFF-10186.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div>applications@lawcabs.ac.uk</p><p>Any questions, please conta' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03503.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09941.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</p></li><li><p>The only distance-learning postgraduate quali' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09940.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div.</li></ul></div>', 'fulltime', 'taught', 1, 1, '<div><p>The a' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09939.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div><p><strong>The closing date has now passed for 18/19 entry ' at line 1")
+http://www.staffs.ac.uk/course/SSTK-11752.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>LPC Course Administrator</p></div>', 'fulltime', 'taught', 1,' at line 1")
+http://www.staffs.ac.uk/course/SSTK-01276.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-2,2019-9', '<div><ul><li>Access to state of the art specialist laborato' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03286.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div><p>Cognitive Behavioural Therapy is a type of psychotherapy ' at line 1")
+http://www.staffs.ac.uk/course/SOFF-10186.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-9', '<div>Postgraduate Courses in Clinical Psychology</strong></p><p>\xa0' at line 1")
+http://www.staffs.ac.uk/course/SSTK-00783.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '2019-10', '<div>applications@lawcabs.ac.uk</p><p>Any questions, please conta' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03503.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '<div><p>Just some of the routes taken by our students after graduating:</p><' at line 1")
+http://www.staffs.ac.uk/course/SSTK-10680.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '<div><p>Graduates are working in a range of organisations including:\xa0</p><p' at line 1")
+http://www.staffs.ac.uk/course/SSTK-04613.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '£', 12500, '', '', '<div><p>An Undergraduate Honours degree of a United' at line 1")
+http://www.staffs.ac.uk/course/SSTK-10281.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '<div><p>The MSc Digital Marketing Management will provide a solid basis for ' at line 1")
+http://www.staffs.ac.uk/course/SSTK-10823.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '£', 12500, '', '', '<div><p>We usually require a 2:1 minimum at BA leve' at line 1")
+http://www.staffs.ac.uk/course/SSTK-04267.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '<div><p>Excellent destinations for graduates. Just some of the routes taken ' at line 1")
+http://www.staffs.ac.uk/course/SSTK-11180.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '£', 12500, '', '', '<div><ul><li>To apply for this course you will need' at line 1")
+http://www.staffs.ac.uk/course/SSTK-01762.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '£', 12500, '', '', '<div>Amy.Burton@staffs.ac.uk\xa0to discuss your optio' at line 1")
+http://www.staffs.ac.uk/course/SSTK-01783.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '<div><p>You will be ideally placed for further academic study to PhD level, ' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09650.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '£', 12500, '', '', '', '', '', '', '', NULL, NULL, NULL, NULL, NULL, ''' at line 1")
+http://www.staffs.ac.uk/course/SSTK-11728.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '<div><p>The MSc in International Accounting and Financial Management will si' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09654.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '£', 12500, '', '', '<div><p>A 2:2 classification or above in a UK under' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09652.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '£', 6350, '', '', '<div><p>A degree in sport science, or related subjec' at line 1")
+http://www.staffs.ac.uk/course/SSTK-01763.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '<div><p>The\xa0course will qualify you to embark on further academic study at ' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09930.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '£', 12500, '', '', '<div><p>A honours degree in a related area typicall' at line 1")
+http://www.staffs.ac.uk/course/SSTK-10195.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '£', 6350, '', '', '<div><p>Minimum 2:2 BSc (Hons) degree in a biologica' at line 1")
+http://www.staffs.ac.uk/course/SSTK-03366.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '£', 12500, '', '', '<div><p>A honours degree in a related area typicall' at line 1")
+http://www.staffs.ac.uk/course/SSTK-10197.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '<div><p>Former students are now working for ITV Sport, ESPN, Aston Villa FC,' at line 1")
+http://www.staffs.ac.uk/course/SSTK-04431.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '<div><p>Our graduates work in many established Games companies such as Rocks' at line 1")
+http://www.staffs.ac.uk/course/SSTK-11177.jsp
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '<div><p>The\xa0course will qualify you to embark on further academic study at ' at line 1")
+http://www.staffs.ac.uk/course/SSTK-09989.jsp
+========================

@@ -1,0 +1,72 @@
+not enough arguments for format string
+https://future-students.uq.edu.au/study/program/Bachelor-of-Communication-Honours-2237
+========================
+not enough arguments for format string
+https://future-students.uq.edu.au/study/program/Bachelor-of-Clinical-Exercise-Physiology-Honours-2413
+========================
+not enough arguments for format string
+https://future-students.uq.edu.au/study/program/Bachelor-of-Commerce-Honours-2131
+========================
+not enough arguments for format string
+https://future-students.uq.edu.au/study/program/Bachelor-of-Wildlife-Science-Honours-2419
+========================
+not enough arguments for format string
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Journalism-2274
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelor-of-Commerce-Honours-2131
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelor-of-Clinical-Exercise-Physiology-Honours-2413
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelor-of-Wildlife-Science-Honours-2419
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'apply_pre' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelors-of-Business-Management-Communication-2404
+========================
+(1406, "Data too long for column 'modules_en' at row 1")
+https://future-students.uq.edu.au/study/program/Bachelor-of-Advanced-Science-Honours-2341
+========================

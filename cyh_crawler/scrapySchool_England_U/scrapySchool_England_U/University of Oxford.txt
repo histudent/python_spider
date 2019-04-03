@@ -1,0 +1,12 @@
+(1406, "Data too long for column 'ucascode' at row 1")
+https://www.ox.ac.uk/admissions/undergraduate/courses-listing/philosophy-and-modern-languages?wssl=1
+========================
+(1406, "Data too long for column 'ucascode' at row 1")
+https://www.ox.ac.uk/admissions/undergraduate/courses-listing/history-and-modern-languages?wssl=1
+========================
+(1406, "Data too long for column 'ucascode' at row 1")
+https://www.ox.ac.uk/admissions/undergraduate/courses-listing/english-and-modern-languages?wssl=1
+========================
+(1406, "Data too long for column 'ucascode' at row 1")
+https://www.ox.ac.uk/admissions/undergraduate/courses-listing/engineering-science?wssl=1
+========================

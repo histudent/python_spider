@@ -1,0 +1,261 @@
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/sport-management-15792
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/sport-and-exercise-psychology-15866
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/strength-and-conditioning-16336
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/sports-coaching-and-performance-16034
+========================
+(1366, "Incorrect integer value: 'PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/sport-and-exercise-medicine-15862
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/stratified-medicine-15957
+========================
+(1366, "Incorrect integer value: 'MA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/teaching-of-english-to-speakers-of-other-languages-15728
+========================
+(1366, "Incorrect integer value: 'LLM' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/human-rights-law-and-transitional-justice-15853
+========================
+(1366, "Incorrect integer value: 'LLM' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/international-commercial-law-and-adr-17894
+========================
+(1366, "Incorrect integer value: 'MA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/international-journalism-hostile-environment-reporting-16097
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/international-business-15661
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/international-event-management-15746
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/international-hospitality-management-15962
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/international-tourism-management-15965
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/internet-of-things-16369
+========================
+(1366, "Incorrect integer value: 'PgDip/MA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/irish-history-and-politics-15757
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/international-business-at-magee-campus-15664
+========================
+(1366, "Incorrect integer value: 'MA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/irish-language-translation-interpreting-and-professional-language-skills-16061
+========================
+(1366, "Incorrect integer value: 'MA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/journalism-15788
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/management-15734
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/marketing-15701
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/management-and-corporate-governance-15719
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/peace-and-conflict-studies-16102
+========================
+(1366, "Incorrect integer value: 'Postgraduate Certificate of Education (PGCE)' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/pgce-art-and-design-14237
+========================
+(1366, "Incorrect integer value: 'MBA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/mba-master-of-business-administration-16039
+========================
+(1366, "Incorrect integer value: 'PgCert/PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/nursing-15871
+========================
+(1366, "Incorrect integer value: 'Postgraduate Certificate of Education (PGCE)' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/pgce-history-14234
+========================
+(1366, "Incorrect integer value: 'Postgraduate Certificate of Education (PGCE)' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/pgce-english-with-drama-and-media-studies-14236
+========================
+(1366, "Incorrect integer value: 'Postgraduate Certificate of Education (PGCE)' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/pgce-music-14232
+========================
+(1366, "Incorrect integer value: 'Postgraduate Certificate of Education (PGCE)' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/pgce-home-economics-14233
+========================
+(1366, "Incorrect integer value: 'Postgraduate Certificate of Education (PGCE)' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/pgce-geography-14235
+========================
+(1366, "Incorrect integer value: 'Postgraduate Certificate of Education (PGCE)' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/pgce-technology-and-design-14262
+========================
+(1366, "Incorrect integer value: 'Postgraduate Certificate of Education (PGCE)' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/pgce-primary-education-14230
+========================
+(1366, "Incorrect integer value: 'Postgraduate Certificate of Education (PGCE)' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/pgce-physical-education-14231
+========================
+(1366, "Incorrect integer value: 'PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/pharmaceutical-sciences-15954
+========================
+(1366, "Incorrect integer value: 'MFA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/photography-mfa-elearning-16032
+========================
+(1366, "Incorrect integer value: 'PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/physician-associate-studies-16033
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/professional-development-in-occupational-therapy-15979
+========================
+(1366, "Incorrect integer value: 'MFA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/photography-mfa-15905
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/professional-software-development-16038
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/professional-development-in-physiotherapy-15982
+========================
+(1366, "Incorrect integer value: 'PgCert' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/quantitative-methods-for-the-behavioural-and-social-sciences-16114
+========================
+(1366, "Incorrect integer value: 'PgCert/PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/real-estate-15948
+========================
+(1366, "Incorrect integer value: 'PgDip' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/specialist-community-public-health-nursing-15869
+========================
+(1366, "Incorrect integer value: 'MA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/product-design-16271
+========================
+(1366, "Incorrect integer value: 'MPA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/public-administration-15672
+========================
+(1366, "Incorrect integer value: 'LLM' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/access-to-justice-16264
+========================
+(1366, "Incorrect integer value: 'PgDip' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/specialist-nursing-with-pathways-15659
+========================
+(1366, "Incorrect integer value: 'GradDip' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/accounting-15723
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/advanced-composites-and-polymers-15684
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/advanced-accounting-15786
+========================
+(1366, "Incorrect integer value: 'PgDip' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/advanced-composites-and-polymers-15698
+========================
+(1366, "Incorrect integer value: 'PgDip' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/biomedical-engineering-15687
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/animation-16322
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/applied-psychology-mental-health-and-psychological-therapies-16334
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/biotechnology-research-15975
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/art-therapy-16267
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/biomedical-engineering-15694
+========================
+(1366, "Incorrect integer value: 'PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/communication-and-public-relations-16016
+========================
+(1366, "Incorrect integer value: 'PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/civil-and-infrastructure-engineering-15656
+========================
+(1366, "Incorrect integer value: 'PgCert/PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/construction-business-and-leadership-with-management-specialisms-16037
+========================
+(1366, "Incorrect integer value: 'MA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/contemporary-performance-practices-16120
+========================
+(1366, "Incorrect integer value: 'PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/counselling-studies-and-therapeutic-communication-15674
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/business-development-and-innovation-15712
+========================
+(1366, "Incorrect integer value: 'MA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/cultural-heritage-and-museum-studies-15924
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/data-science-16109
+========================
+(1366, "Incorrect integer value: 'MMus' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/creative-musicianship-15918
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/dietetics-15899
+========================
+(1366, "Incorrect integer value: 'MFA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/design-15906
+========================
+(1366, "Incorrect integer value: 'PgCert' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/employment-law-and-practice-16099
+========================
+(1366, "Incorrect integer value: 'PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/digital-media-communication-15966
+========================
+(1366, "Incorrect integer value: 'MBA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/executive-mba-master-of-business-administration-16080
+========================
+(1366, "Incorrect integer value: 'PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/english-language-and-linguistics-15790
+========================
+(1366, "Incorrect integer value: 'MA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/english-literature-15753
+========================
+(1366, "Incorrect integer value: 'MFA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/fine-art-mfa-15908
+========================
+(1366, "Incorrect integer value: 'PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/fire-safety-engineering-15834
+========================
+(1366, "Incorrect integer value: 'PgCert/PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/food-and-nutrition-15842
+========================
+(1366, "Incorrect integer value: 'PgCert/PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/food-regulatory-affairs-15987
+========================
+(1366, "Incorrect integer value: 'LLM' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/gender-conflict-and-human-rights-15851
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/global-investment-management-15787
+========================
+(1366, "Incorrect integer value: 'PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/geographic-information-systems-15891
+========================
+(1366, "Incorrect integer value: 'PgCert/PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/health-promotion-and-public-health-15874
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/fashion-and-textile-retail-management-16268
+========================
+(1366, "Incorrect integer value: 'PgDip/MA' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/history-15961
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/human-nutrition-15897
+========================
+(1366, "Incorrect integer value: 'PgDip/MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/health-and-wellbeing-15880
+========================
+(1366, "Incorrect integer value: 'MSc' for column 'degree_type' at row 1")
+https://www.ulster.ac.uk/courses/201819/health-psychology-15717
+========================

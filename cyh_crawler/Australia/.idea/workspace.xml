@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6fd5bbb-9857-481d-b65e-ef9a5cb89d08" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Australia$runQueensland.coverage" NAME="runQueensland Coverage Results" MODIFIED="1519727262375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$runUNSW.coverage" NAME="runUNSW Coverage Results" MODIFIED="1519804888733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$runSydnet.coverage" NAME="runSydnet Coverage Results" MODIFIED="1519790247014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$runUTS.coverage" NAME="runUTS Coverage Results" MODIFIED="1520584820077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$runMelbourne.coverage" NAME="runMelbourne Coverage Results" MODIFIED="1520331144377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$runMelbourne_Master.coverage" NAME="runMelbourne_Master Coverage Results" MODIFIED="1520331240479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$runANU.coverage" NAME="runANU Coverage Results" MODIFIED="1520330953634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$runQueensland_Master.coverage" NAME="runQueensland_Master Coverage Results" MODIFIED="1519727939527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$runSydney_Master.coverage" NAME="runSydney_Master Coverage Results" MODIFIED="1520497847152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$runANU_Master.coverage" NAME="runANU_Master Coverage Results" MODIFIED="1520331007992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$main.coverage" NAME="main Coverage Results" MODIFIED="1553844232891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia" />
+    <SUITE FILE_PATH="coverage/Australia$runSydney.coverage" NAME="runSydney Coverage Results" MODIFIED="1520492600494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$runUA.coverage" NAME="runUA Coverage Results" MODIFIED="1520387969856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$runUWA_Master.coverage" NAME="runUWA_Master Coverage Results" MODIFIED="1519803717315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$runUA_Master.coverage" NAME="runUA_Master Coverage Results" MODIFIED="1520388037612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$countCodeLine1.coverage" NAME="countCodeLine1 Coverage Results" MODIFIED="1536573452136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/spiders" />
+    <SUITE FILE_PATH="coverage/Australia$MonashUniversity_U_copy.coverage" NAME="MonashUniversity_U_copy Coverage Results" MODIFIED="1552873778982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/oldspiders" />
+    <SUITE FILE_PATH="coverage/Australia$runUTS_Master.coverage" NAME="runUTS_Master Coverage Results" MODIFIED="1519815526786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$runMU.coverage" NAME="runMU Coverage Results" MODIFIED="1520502273553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$runUWA.coverage" NAME="runUWA Coverage Results" MODIFIED="1519803255108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia/runSpiders" />
+    <SUITE FILE_PATH="coverage/Australia$school_list.coverage" NAME="school_list Coverage Results" MODIFIED="1519983762139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Australia" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Australia/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Australia/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Australia/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="44" column="19" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="46" selection-end-column="41" />
+              <folding>
+                <marker date="1548653504916" expanded="true" signature="807:950" ph="select max(b... tmp_school_au_ben" />
+                <marker date="1548653504916" expanded="true" signature="1006:2162" ph="insert into tmp_school_au_ben... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Australia/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="e#252#344#0" expanded="false" />
+                <element signature="e#371#619#0" expanded="false" />
+                <element signature="e#654#785#0" expanded="false" />
+                <element signature="e#818#929#0" expanded="false" />
+                <element signature="e#965#1088#0" expanded="false" />
+                <element signature="e#1138#2800#0" expanded="false" />
+                <element signature="e#2852#4495#0" expanded="false" />
+                <element signature="e#6584#7810#0" expanded="false" />
+                <element signature="e#7845#9237#0" expanded="false" />
+                <element signature="e#9266#9583#0" expanded="false" />
+                <element signature="e#9617#9998#0" expanded="false" />
+                <element signature="e#10034#10704#0" expanded="false" />
+                <element signature="e#10740#10997#0" expanded="false" />
+                <element signature="e#11029#11233#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Australia/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+              <folding>
+                <element signature="e#2408#3451#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TheUniversityOfSydney_U.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Australia/spiders/TheUniversityOfSydney_U.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="271">
+              <caret line="73" column="34" lean-forward="true" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="159" />
+              <folding>
+                <element signature="e#24#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>china</find>
+      <find>self.item</find>
+      <find>erqText</find>
+      <find>A minimum result</find>
+      <find>A minimum result of</find>
+      <find>https://</find>
+      <find>https://www.latrobe.edu.au/courses/data/2019/international/be/bachelor-of-applied-science-and-master-of-occupational-therapy-practice</find>
+      <find>http</find>
+      <find>overview_en</find>
+      <find>下载</find>
+      <find>IELTS</find>
+      <find>Bachelor</find>
+      <find>Queensland University of Technology</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Australia/runSpiders/runMelbourne_Master.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/Melbourne.py" />
+        <option value="$PROJECT_DIR$/Australia/runSpiders/runUNSW.py" />
+        <option value="$PROJECT_DIR$/Australia/runSpiders/runQueensland.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/Queensland.py" />
+        <option value="$PROJECT_DIR$/Australia/runSpiders/runQueensland_Master.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/Queensland_Master.py" />
+        <option value="$PROJECT_DIR$/Australia/runSpiders/runSydnet.py" />
+        <option value="$PROJECT_DIR$/Australia/runSpiders/runSydney_Master.py" />
+        <option value="$PROJECT_DIR$/Australia/runSpiders/runUWA.py" />
+        <option value="$PROJECT_DIR$/Australia/runSpiders/runUWA_Master.py" />
+        <option value="$PROJECT_DIR$/Australia/runSpiders/runUNSW_Master.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/UNSW.py" />
+        <option value="$PROJECT_DIR$/Australia/runSpiders/runUA_Master.py" />
+        <option value="$PROJECT_DIR$/Australia/runSpiders/runUA.py" />
+        <option value="$PROJECT_DIR$/Australia/runSpiders/runUTS_Master.py" />
+        <option value="$PROJECT_DIR$/Australia/runSpiders/runUTS.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/UTS_Master.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/UWA_Master.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/UA.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/UA_Master.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/UNSW_Master.py" />
+        <option value="$PROJECT_DIR$/Australia/school_list.py" />
+        <option value="$PROJECT_DIR$/Australia/text" />
+        <option value="$PROJECT_DIR$/Australia/spiders/UWA.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/Sydney.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/Sydney_Master.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/Melbourne_Master.py" />
+        <option value="$PROJECT_DIR$/Australia/runSpiders/runMU.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/UTS.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/text_js.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/MU.py" />
+        <option value="$PROJECT_DIR$/Australia/items.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/TheUniversityOfQueensland_P.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/TheUniversityOfQueensland_U.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/TheUniversityOfNewcastle_U.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/TheUniversityOfQueensland_U_copy.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/MonashUniversity_U_copy.py" />
+        <option value="$PROJECT_DIR$/Australia/pipelines.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/TheUniversityOfSydney_U_copy.py" />
+        <option value="$PROJECT_DIR$/Australia/middlewares.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/TheUniversityofQueensland_U.py" />
+        <option value="$PROJECT_DIR$/Australia/oldspiders/MonashUniversity_U_copy.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/MonashUniversity_U.py" />
+        <option value="$PROJECT_DIR$/Australia/oldspiders/TheUniversityOfSydney_U_copy.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/GriffithUniversity_U.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/QueenslandUniversityOfTechnology_U.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/LaTrobeUniversity_U.py" />
+        <option value="$PROJECT_DIR$/Australia/settings.py" />
+        <option value="$PROJECT_DIR$/Australia/main.py" />
+        <option value="$PROJECT_DIR$/Australia/spiders/TheUniversityOfSydney_U.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Australia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Australia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Australia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Australia" type="462c0819:PsiDirectoryNode" />
+              <item name="Australia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Australia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Australia" type="462c0819:PsiDirectoryNode" />
+              <item name="Australia" type="462c0819:PsiDirectoryNode" />
+              <item name="oldspiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Australia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Australia" type="462c0819:PsiDirectoryNode" />
+              <item name="Australia" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Australia\Australia\spiders" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="MonashUniversity_U_copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Australia/oldspiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Australia" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Australia/oldspiders/MonashUniversity_U_copy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="countCodeLine1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Australia/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Australia" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Australia/spiders/countCodeLine1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Australia" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Australia" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Australia/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="runMU" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Australia/runSpiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Australia" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Australia/runSpiders/runMU.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="runUTS" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Australia/runSpiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Australia" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Australia/runSpiders/runUTS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.runMU" />
+      <item index="1" class="java.lang.String" itemvalue="Python.runUTS" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main" />
+      <item index="3" class="java.lang.String" itemvalue="Python.countCodeLine1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.MonashUniversity_U_copy" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.MonashUniversity_U_copy" />
+        <item index="2" class="java.lang.String" itemvalue="Python.countCodeLine1" />
+        <item index="3" class="java.lang.String" itemvalue="Python.runUTS" />
+        <item index="4" class="java.lang.String" itemvalue="Python.runMU" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6fd5bbb-9857-481d-b65e-ef9a5cb89d08" name="Default" comment="" />
+      <created>1519700238537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519700238537</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21652268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3278496" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23266745" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1774383" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39952996" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29769737" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.78289473" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0756579" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25642964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.05592105" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/UNSW_Master.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/school_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/runSpiders/runUNSW_Master.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/UNSW_Master.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/UWA.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/UNSW.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/runSpiders/runSydney.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/runSpiders/runSydney_Master.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/Melbourne_Master.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/Sydney_Master.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/Melbourne.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/runSpiders/runMU.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/runSpiders/runUTS.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/runSpiders/runUTS_Master.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/UTS_Master.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/UTS.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/ANU.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/Sydney.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/UA.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/text_js.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/MU.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/Queensland.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/Queensland_Master.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/TheUniversityOfQueensland_P.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/TheUniversityOfNewcastle_U.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/The University of Queensland.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Program Files/feiq/Recv Files/Sydney(1).py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/MonashUniversity_U_copy.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/TheUniversityOfQueensland_U_copy.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/TheUniversityOfSydney_U_copy.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/countCodeLine1.py" />
+    <entry file="file://$PROJECT_DIR$/Australia/oldspiders/TheUniversityOfQueensland_U_copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2511">
+          <caret line="98" column="47" lean-forward="false" selection-start-line="98" selection-start-column="47" selection-end-line="98" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/oldspiders/TheUniversityOfSydney_U_copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="22" column="46" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/oldspiders/QueenslandUniversityOfTechnology_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2106">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/oldspiders/MonashUniversity_U_copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/oldspiders/GriffithUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="279" column="28" lean-forward="false" selection-start-line="279" selection-start-column="28" selection-end-line="279" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/oldspiders/LaTrobeUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="267" column="12" lean-forward="true" selection-start-line="267" selection-start-column="12" selection-end-line="267" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/scrapy/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="6" lean-forward="false" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/MonashUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/TheUniversityofQueensland_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/GriffithUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="167" column="42" lean-forward="false" selection-start-line="167" selection-start-column="28" selection-end-line="167" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/LaTrobeUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="116" column="48" lean-forward="false" selection-start-line="116" selection-start-column="48" selection-end-line="116" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/QueenslandUniversityOfTechnology_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="34" lean-forward="false" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+          <folding>
+            <element signature="e#2408#3451#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="e#252#344#0" expanded="false" />
+            <element signature="e#371#619#0" expanded="false" />
+            <element signature="e#654#785#0" expanded="false" />
+            <element signature="e#818#929#0" expanded="false" />
+            <element signature="e#965#1088#0" expanded="false" />
+            <element signature="e#1138#2800#0" expanded="false" />
+            <element signature="e#2852#4495#0" expanded="false" />
+            <element signature="e#6584#7810#0" expanded="false" />
+            <element signature="e#7845#9237#0" expanded="false" />
+            <element signature="e#9266#9583#0" expanded="false" />
+            <element signature="e#9617#9998#0" expanded="false" />
+            <element signature="e#10034#10704#0" expanded="false" />
+            <element signature="e#10740#10997#0" expanded="false" />
+            <element signature="e#11029#11233#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="63" lean-forward="false" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/spiders/TheUniversityOfSydney_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="73" column="34" lean-forward="true" selection-start-line="73" selection-start-column="34" selection-end-line="73" selection-end-column="159" />
+          <folding>
+            <element signature="e#24#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Australia/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="44" column="19" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="46" selection-end-column="41" />
+          <folding>
+            <marker date="1548653504916" expanded="true" signature="807:950" ph="select max(b... tmp_school_au_ben" />
+            <marker date="1548653504916" expanded="true" signature="1006:2162" ph="insert into tmp_school_au_ben... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

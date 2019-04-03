@@ -1,0 +1,54 @@
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Specialist-Community-Public-Health-Nursing-PGDip-and-MSc
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/International-Relations-MA
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Management-MSc
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Business-Administration-MBA
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Environmental-Management-MSc
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Sustainability-Entrepreneurship-and-Design-MSc
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Management-MSc
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Business-Administration-MBA
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/International-Relations-MA
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Sustainability-Entrepreneurship-and-Design-MSc
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Specialist-Community-Public-Health-Nursing-PGDip-and-MSc
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Environmental-Management-MSc
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/International-Relations-MA
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Management-MSc
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Specialist-Community-Public-Health-Nursing-PGDip-and-MSc
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Sustainability-Entrepreneurship-and-Design-MSc
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Business-Administration-MBA
+========================
+(1264, "Out of range value for column 'duration' at row 1")
+http://www.brunel.ac.uk/study/postgraduate/Environmental-Management-MSc
+========================

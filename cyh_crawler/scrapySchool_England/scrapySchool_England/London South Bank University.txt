@@ -1,0 +1,27 @@
+(1241, 'Operand should contain 1 column(s)')
+http://www.lsbu.ac.uk/courses/course-finder/advanced-cbt-practice-top-up-msc
+========================
+(1241, 'Operand should contain 1 column(s)')
+http://www.lsbu.ac.uk/courses/course-finder/advanced-clinical-practice-pgdip-msc
+========================
+(1241, 'Operand should contain 1 column(s)')
+http://www.lsbu.ac.uk/courses/course-finder/advancing-practice-occupational-therapy
+========================
+(1241, 'Operand should contain 1 column(s)')
+http://www.lsbu.ac.uk/courses/course-finder/advanced-cbt-practice-top-up-msc
+========================
+(1241, 'Operand should contain 1 column(s)')
+http://www.lsbu.ac.uk/courses/course-finder/advanced-clinical-practice-pgdip-msc
+========================
+(1241, 'Operand should contain 1 column(s)')
+http://www.lsbu.ac.uk/courses/course-finder/advancing-practice-occupational-therapy
+========================
+(1241, 'Operand should contain 1 column(s)')
+http://www.lsbu.ac.uk/courses/course-finder/occupational-therapy-pre-registration-pgdip-msc
+========================
+(1241, 'Operand should contain 1 column(s)')
+http://www.lsbu.ac.uk/courses/course-finder/primary-pgce
+========================
+(1241, 'Operand should contain 1 column(s)')
+http://www.lsbu.ac.uk/courses/course-finder/real-estate-msc
+========================

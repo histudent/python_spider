@@ -1,0 +1,9 @@
+(1366, "Incorrect integer value: 'consec' for column 'duration_per' at row 1")
+https://www.city.ac.uk/courses/postgraduate/international-business-law-distance-learning
+========================
+(1366, "Incorrect integer value: 'module' for column 'duration_per' at row 1")
+https://www.city.ac.uk/courses/postgraduate/maritime-operations-and-management
+========================
+(1366, "Incorrect integer value: 'intake' for column 'duration_per' at row 1")
+https://www.city.ac.uk/courses/postgraduate/primary-care-practice-nursing
+========================

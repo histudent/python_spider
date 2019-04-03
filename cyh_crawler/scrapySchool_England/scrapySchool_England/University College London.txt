@@ -1,0 +1,24 @@
+(1406, "Data too long for column 'url' at row 1")
+https://search2.ucl.ac.uk/s/redirect?collection=website-meta&url=https%3A%2F%2Fwww.ucl.ac.uk%2Fprospective-students%2Fgraduate%2Ftaught-degrees%2Fphysics-engineering-medicine-biomedical-imaging-msc&index_url=https%3A%2F%2Fwww.ucl.ac.uk%2Fprospective-students%2Fgraduate%2Ftaught-degrees%2Fphysics-engineering-medicine-biomedical-imaging-msc&auth=7B02MY%2FK0QyKbimWHV6pww&profile=_degree&rank=4&query=%21padrenullquery+%7CL%3A%22%24%2B%2B+Graduate+Taught+%24%2B%2B%22+%7Cm%3A%22%24%2B%2B+Full-Time+%28FT%29+%24%2B%2B%22
+========================
+(1406, "Data too long for column 'major_type1' at row 1")
+https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/physics-engineering-medicine-biomedical-imaging-msc
+========================
+(1406, "Data too long for column 'major_type1' at row 1")
+https://www.ucl.ac.uk/prospective-students/graduate/teacher-training-programmes/computer-science-school-direct-salaried
+========================
+(1406, "Data too long for column 'major_type1' at row 1")
+https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/clinical-pharmacy-international-practice-policy-msc
+========================
+(1406, "Data too long for column 'major_type1' at row 1")
+https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/political-analysis-russia-eastern-europe-ma
+========================
+(1406, "Data too long for column 'major_type1' at row 1")
+https://www.ucl.ac.uk/prospective-students/graduate/teacher-training-programmes/art-design-school-direct-pgce
+========================
+(1406, "Data too long for column 'major_type1' at row 1")
+https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/integrated-building-systems-design-operation-msc
+========================
+(1406, "Data too long for column 'major_type1' at row 1")
+https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/rehabilitation-engineering-assistive-technologies-msc
+========================

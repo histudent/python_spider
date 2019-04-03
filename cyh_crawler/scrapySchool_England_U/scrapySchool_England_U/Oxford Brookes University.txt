@@ -1,0 +1,21 @@
+(1406, "Data too long for column 'ucascode' at row 1")
+https://www.brookes.ac.uk/courses/undergraduate/animal-behaviour-and-welfare/
+========================
+(1406, "Data too long for column 'ucascode' at row 1")
+https://www.brookes.ac.uk/courses/undergraduate/early-childhood-studies-ba-top-up/
+========================
+(1406, "Data too long for column 'ucascode' at row 1")
+https://www.brookes.ac.uk/courses/undergraduate/animal-behaviour-and-welfare-bsc-top-up/
+========================
+(1406, "Data too long for column 'ucascode' at row 1")
+https://www.brookes.ac.uk/courses/undergraduate/early-years-foundation-degree/
+========================
+(1406, "Data too long for column 'ucascode' at row 1")
+https://www.brookes.ac.uk/courses/undergraduate/animal-therapy-and-rehabilitation--bsc-top-up/
+========================
+(1406, "Data too long for column 'ucascode' at row 1")
+https://www.brookes.ac.uk/courses/undergraduate/educational-practice/
+========================
+(1406, "Data too long for column 'ucascode' at row 1")
+https://www.brookes.ac.uk/courses/undergraduate/business-and-management-practice--fda-/
+========================

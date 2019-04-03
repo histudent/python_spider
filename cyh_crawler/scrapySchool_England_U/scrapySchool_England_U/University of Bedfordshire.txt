@@ -1,0 +1,6 @@
+(1406, "Data too long for column 'location' at row 1")
+https://www.beds.ac.uk/howtoapply/courses/undergraduate/next-year/network-management?=coursesearch-ug
+========================
+(1406, "Data too long for column 'location' at row 1")
+https://www.beds.ac.uk/howtoapply/courses/undergraduate/next-year/baaedadp?=coursesearch-ug
+========================

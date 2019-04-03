@@ -1,0 +1,192 @@
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201067/2018/small-animal-surgery
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201074/2018/small-animal-cardiology-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201073/2018/western-veterinary-acupuncture-and-chronic-pain-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201072/2018/small-animal-emergency-medicine-and-surgery
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201068/2018/small-animal-medicine
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201070/2018/small-animal-ophthalmology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201075/2018/small-animal-diagnostic-imaging
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201069/2018/feline-veterinary-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201071/2018/exotic-animal-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201073/2018/western-veterinary-acupuncture-and-chronic-pain-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201067/2018/small-animal-surgery
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201070/2018/small-animal-ophthalmology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201068/2018/small-animal-medicine
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201072/2018/small-animal-emergency-medicine-and-surgery
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201075/2018/small-animal-diagnostic-imaging
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201074/2018/small-animal-cardiology-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201071/2018/exotic-animal-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201069/2018/feline-veterinary-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201073/2018/western-veterinary-acupuncture-and-chronic-pain-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201069/2018/feline-veterinary-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201071/2018/exotic-animal-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201075/2018/small-animal-diagnostic-imaging
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201072/2018/small-animal-emergency-medicine-and-surgery
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201068/2018/small-animal-medicine
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201070/2018/small-animal-ophthalmology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201074/2018/small-animal-cardiology-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201067/2018/small-animal-surgery
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201067/2018/small-animal-surgery
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201074/2018/small-animal-cardiology-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201072/2018/small-animal-emergency-medicine-and-surgery
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201070/2018/small-animal-ophthalmology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201068/2018/small-animal-medicine
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201075/2018/small-animal-diagnostic-imaging
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201073/2018/western-veterinary-acupuncture-and-chronic-pain-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201069/2018/feline-veterinary-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201071/2018/exotic-animal-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201135/2018/master-of-research
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201137/2018/land-and-property-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201079/2018/poultry-production
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201005/2018/integrated-pest-management
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), '', '', '£', '12650', '', '', '', '', '', '', '', '6.0', '5.5', '5.5', '5.5'' at line 1")
+https://www.harper-adams.ac.uk/courses/postgraduate/201078/2018/pig-production
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201045/2018/forestry-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/97/2018/international-agribusiness-and-food-chain-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201028/2018/food-industry-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201036/2018/plant-pathology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201007/2018/ecological-applications
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201078/2018/pig-production
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201135/2018/master-of-research
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201005/2018/integrated-pest-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201137/2018/land-and-property-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/97/2018/international-agribusiness-and-food-chain-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201036/2018/plant-pathology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201045/2018/forestry-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201007/2018/ecological-applications
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201006/2018/conservation-and-forest-protection
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201139/2018/agricultural-sciences-and-production-systems
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201133/2018/automotive-engineering-offhighway
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201079/2018/poultry-production
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201004/2018/entomology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201028/2018/food-industry-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201066/2018/agroecology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201138/2018/applied-ecology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201033/2018/applied-mechatronic-engineering
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.harper-adams.ac.uk/courses/postgraduate/201077/2018/aquaculture
+========================

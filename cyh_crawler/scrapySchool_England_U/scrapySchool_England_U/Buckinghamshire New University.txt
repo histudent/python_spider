@@ -1,0 +1,153 @@
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/audio-and-music-production
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/airline-and-airport-management-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/advertising-pr-and-content-creation-with-foundation-year
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/airline-and-airport-management-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/accounting-and-finance-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/advertising-management-and-digital-communications-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/health-and-social-sciences/business-and-psychology-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/business-and-human-resource-management-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/business-and-finance-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/business-management-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/health-and-social-sciences/cyber-security-with-foundation-year
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/health-and-social-sciences/criminological-psychology-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/health-and-social-sciences/criminology-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/creative-advertising-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/computing-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/computing-and-web-development-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/health-and-social-sciences/behavioural-sciences-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/dance-and-performance-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/dance-and-fitness-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/event-and-festivals-management-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/fashion-design-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/graphic-design-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/games-development-with-foundation-year-ft-1718
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/health-and-social-sciences/health-and-social-science-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/international-tourism-management-with-air-travel-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/interior-and-spatial-design-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/independent-games-production-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/music-production-and-performance-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/music-and-live-events-management-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/music-performance-management-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/music-management-and-studio-production-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/marketing-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/school-of-pre-qualifying-nursing-and-v-h-c/nursing-mental-health-with-nmc-registration-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/school-of-pre-qualifying-nursing-and-v-h-c/nursing-childrens-with-nmc-registration-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/music-business-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/school-of-pre-qualifying-nursing-and-v-h-c/nursing-adult-with-nmc-registration-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/health-and-social-sciences/psychology-and-criminology-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/health-and-social-sciences/psychology-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/product-design-interior-product-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/product-design-with-foundation-year-ft-BSc
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/health-and-social-sciences/sports-therapy-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/health-and-social-sciences/strength-and-conditioning-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/product-design-with-foundation-year-ft-BA
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/health-and-social-sciences/sports-psychology-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/health-and-social-sciences/sport-and-exercise-science-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/textile-design-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/health-and-social-sciences/sport-development-and-coaching-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/sound-design-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/software-engineering-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/management-and-professional-studies/police-studies-with-criminal-investigation-with-foundation-year-ft
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://bucks.ac.uk/courses/undergraduate/arts-and-creative-industries/performing-arts-film-tv-and-stage-with-foundation-year-ft
+========================

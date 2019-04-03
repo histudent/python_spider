@@ -1,0 +1,12 @@
+(1366, "Incorrect integer value: '' for column 'duration' at row 1")
+https://www.newman.ac.uk/course/work-based-learning-mamsc/part-time/
+========================
+(1366, "Incorrect integer value: '' for column 'duration' at row 1")
+https://www.newman.ac.uk/knowledge-base/postgraduate-route-in-integrative-psychotherapy/
+========================
+(1366, "Incorrect integer value: '' for column 'duration' at row 1")
+https://www.newman.ac.uk/course/work-based-learning-mamsc/part-time/
+========================
+(1366, "Incorrect integer value: '' for column 'duration' at row 1")
+https://www.newman.ac.uk/knowledge-base/postgraduate-route-in-integrative-psychotherapy/
+========================

@@ -1,0 +1,81 @@
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', (), NULL, NULL, NULL, NULL, NULL, '', '', '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/dbr-bovine-reproduction/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), 6, 6, 6, 6, 6, '', (), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', ' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/diploma-in-radiotherapy/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', (), NULL, NULL, NULL, NULL, NULL, '', '', '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/radiotherapy-msc/overview/
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/mcl-english-ma/overview/
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/english-ma/overview/
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/arts-english-mres/overview/
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/vl-english-ma/overview/
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/applied-linguistics-ma/overview/
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/recl-english-ma/overview/
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/sfs-english-ma/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/mph-public-health/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/marketing-msc/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/sports-business-msc/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/operations-and-supply-chain-management-msc/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/programme-and-project-management-msc/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/master-in-management/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/finance-msc/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/international-business-msc/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/management-mres/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/human-resource-management-msc/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/economics-msc/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/entrepreneurship-and-innovation-management-msc/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/football-industries-mba/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/digital-business-enterprise-management-msc/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/business-admin-fa-cert/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/business-analytics-and-big-data-msc/overview/
+========================
+(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '), NULL, NULL, NULL, NULL, NULL, '', '', '', '', '', '', NULL, NULL, '', NULL, '' at line 1")
+https://www.liverpool.ac.uk/study/postgraduate-taught/taught/accounting-and-finance-msc/overview/
+========================

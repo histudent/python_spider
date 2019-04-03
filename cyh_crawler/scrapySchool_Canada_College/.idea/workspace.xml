@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6c5bff3-fd6b-46f8-a819-1eb4bf1686b2" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/scrapySchool_Canada_Ben$dp.coverage" NAME="dp Coverage Results" MODIFIED="1543218000552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders" />
+    <SUITE FILE_PATH="coverage/scrapySchool_Canada_Ben$main.coverage" NAME="main Coverage Results" MODIFIED="1545036701522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scrapySchool_Canada_Ben$UniversityofManitoba_U.coverage" NAME="UniversityofManitoba_U Coverage Results" MODIFIED="1541731534252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders" />
+    <SUITE FILE_PATH="coverage/scrapySchool_Canada_Ben$Toronto.coverage" NAME="Toronto Coverage Results" MODIFIED="1543832452688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders" />
+    <SUITE FILE_PATH="coverage/scrapySchool_Canada_College$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1548756537767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapySchool_Canada_College" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+              <folding>
+                <marker date="1548653400510" expanded="true" signature="586:739" ph="select max(b... tmp_school_ca_college" />
+                <marker date="1548653400510" expanded="true" signature="763:2150" ph="insert into tmp_school_ca_college... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="items.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1971">
+              <caret line="73" column="16" lean-forward="false" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfederationColleage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/spiders/ConfederationColleage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="76" column="51" lean-forward="false" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="51" />
+              <folding>
+                <element signature="e#349#5378#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="277" column="37" lean-forward="true" selection-start-line="277" selection-start-column="37" selection-end-line="277" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>D:\pycharm\hooli_scrapy_project\scrapySchool_Canada_Ben\scrapySchool_Canada_Ben\UniversityofWinnipeg\programm_html\Geography.html</find>
+      <find>item['url']:  None</find>
+      <find>item['url']:  n</find>
+      <find>factsheet-flexible-major.pdf</find>
+      <find>Student Designed Major</find>
+      <find>item['other']</find>
+      <find>arts</find>
+      <find>===================</find>
+      <find>'other</find>
+      <find>apply</find>
+      <find>Bachelor</find>
+      <find>item['department']:  None</find>
+      <find>Cellular, Molecular and Microbial Biology</find>
+      <find>***career_en 为空</find>
+      <find>item['major_name_en']:  n</find>
+      <find>[]</find>
+      <find>item['start_date']:  Sep Jan May</find>
+      <find>***overview_en 为空</find>
+      <find>item['overview_en']:  &lt;</find>
+      <find>https://webapps-5.okanagan.bc.ca/ok/Calendar/HumanKineticsDiplomaPathwaytotheBBA</find>
+      <find>&lt;h2&gt;Admission Requirements&lt;/h2&gt;</find>
+      <find>&lt;h2&gt;Program Outline&lt;/h2&gt;</find>
+      <find>&lt;GET http.+/</find>
+      <find>---.+</find>
+      <find>https://www.georgiancollege.ca/academics/full-time-programs/culinary-management-co-op-culn/</find>
+      <find>数据插入成功</find>
+      <find>http://www.kpu.ca/science/mathematics/program-details</find>
+      <find>Minor</find>
+      <find>Start Dates</find>
+      <find>&lt;div&gt;course outline  &lt;/div&gt;</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/UniversityofToronto_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/lakehead_university.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/items.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/lakehead_university_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/getItem.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/McGillUniversity _U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/St.FrancisXavierUniversity _U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/McMasterUniversity.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/scrapyd/default_scrapyd.conf" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/StThomasUniversity _U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/ConcordiaUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/pipelines.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/StFrancisXavierUniversity _U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/middlewares.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/UniversityofManitoba_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/MountSaintVincentUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/dp.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/Toronto.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/StThomasUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/YorkUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/UniversityofWinnipeg_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/McMasterUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/BrockUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/LaurentianUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/McGillUniversity_U.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/ThompsonRiverUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/EmilyCarrUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_Ben/settings.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_College/items.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_College/getItem.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_College/spiders/OkanaganCollege.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_College/settings.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_College/middlewares.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_College/spiders/CapilanoUniversity.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_College/spiders/DurhamCollege.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_College/spiders/StLawenceCollege.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_College/spiders/KwantlenPolytechnicUniversity.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_College/spiders/BritishColumbiaInstituteofTechnology.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_College/spiders/GeorigianCollege.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_College/spiders/ConfederationColleage.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_College/pipelines.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_Canada_College/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1841" />
+    <option name="y" value="121" />
+    <option name="width" value="1292" />
+    <option name="height" value="692" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scrapySchool_Canada_College" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapySchool_Canada_College" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapySchool_Canada_College" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapySchool_Canada_College" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapySchool_Canada_College" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapySchool_Canada_College" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapySchool_Canada_College" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapySchool_Canada_College" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="E:/scrapySchool_England_U" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/Python_Spider/scrapySchool_Canada_Ben/scrapySchool_Canada_Ben/items.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\scrapySchool_Canada_College\scrapySchool_Canada_College" />
+      <recent name="D:\pycharm\hooli_scrapy_project\scrapySchool_Canada_Ben\scrapySchool_Canada_Ben\spiders" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="Toronto" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scrapySchool_Canada_Ben" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/Toronto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="UniversityofManitoba_U" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scrapySchool_Canada_Ben" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/UniversityofManitoba_U.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="dp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scrapySchool_Canada_Ben" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/dp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapySchool_Canada_College" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scrapySchool_Canada_College" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapySchool_Canada_College/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scrapySchool_Canada_Ben" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.UniversityofManitoba_U" />
+      <item index="2" class="java.lang.String" itemvalue="Python.dp" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Toronto" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Toronto" />
+        <item index="3" class="java.lang.String" itemvalue="Python.dp" />
+        <item index="4" class="java.lang.String" itemvalue="Python.UniversityofManitoba_U" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6c5bff3-fd6b-46f8-a819-1eb4bf1686b2" name="Default" comment="" />
+      <created>1539573109293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539573109293</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1036" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23434125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957503" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23536165" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5123384" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53453946" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957503" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29216152" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22192225" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-756103818/lxml/etree/__init__.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-756103818/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/error/McGill University.txt" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/scrapyd/default_scrapyd.conf" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/pipelines.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/error/St. Thomas University.txt" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/error/St. Francis Xavier University.txt" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/error/McMaster University.txt" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/error/Concordia Universit.txt" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/error/University of Manitoba.txt" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/error/York University.txt" />
+    <entry file="file://$PROJECT_DIR$/a.txt" />
+    <entry file="file://$PROJECT_DIR$/a.html" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/UniversityofWinnipeg/programm_html/Anthropology.html" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/dp.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/Toronto.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/UniversityofWinnipeg_U.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/MountSaintVincentUniversity_U.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/UniversityofManitoba_U.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/BrockUniversity_U.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/LaurentianUniversity_U.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/McMasterUniversity_U.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/ConcordiaUniversity_U.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/StFrancisXavierUniversity _U.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/YorkUniversity_U.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/StThomasUniversity_U.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/error/Thompson River University .txt" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/McGillUniversity_U.py" />
+    <entry file="file://$PROJECT_DIR$/main.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/ThompsonRiverUniversity_U.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/settings.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/spiders/EmilyCarrUniversity_U.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/getItem.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/middlewares.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_Ben/items.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/getItem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1782">
+          <caret line="66" column="22" lean-forward="true" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/scrapy/core/downloader/middleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/spiders/BritishColumbiaInstituteofTechnology.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="185" column="18" lean-forward="false" selection-start-line="185" selection-start-column="18" selection-end-line="185" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/spiders/GeorigianCollege.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="142" column="45" lean-forward="false" selection-start-line="142" selection-start-column="45" selection-end-line="142" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/spiders/DurhamCollege.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4455">
+          <caret line="167" column="37" lean-forward="false" selection-start-line="167" selection-start-column="29" selection-end-line="167" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/spiders/KwantlenPolytechnicUniversity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="47" column="39" lean-forward="false" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/spiders/OkanaganCollege.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="59" column="37" lean-forward="false" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/spiders/StLawenceCollege.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="189" column="34" lean-forward="true" selection-start-line="189" selection-start-column="34" selection-end-line="189" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/spiders/CapilanoUniversity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="733">
+          <caret line="61" column="34" lean-forward="true" selection-start-line="61" selection-start-column="29" selection-end-line="61" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="38" lean-forward="false" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <folding>
+            <marker date="1548653400510" expanded="true" signature="586:739" ph="select max(b... tmp_school_ca_college" />
+            <marker date="1548653400510" expanded="true" signature="763:2150" ph="insert into tmp_school_ca_college... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1971">
+          <caret line="73" column="16" lean-forward="false" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/spiders/ConfederationColleage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="76" column="51" lean-forward="false" selection-start-line="76" selection-start-column="51" selection-end-line="76" selection-end-column="51" />
+          <folding>
+            <element signature="e#349#5378#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_Canada_College/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="277" column="37" lean-forward="true" selection-start-line="277" selection-start-column="37" selection-end-line="277" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

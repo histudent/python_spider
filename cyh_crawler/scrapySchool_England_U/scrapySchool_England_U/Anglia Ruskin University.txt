@@ -1,0 +1,324 @@
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/abnormal-and-clinical-psychology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/applied-nutritional-science
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/animal-behaviour-with-foundation-year
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/animal-behaviour
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/architectural-technology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/applied-nutritional-science-with-foundation-year
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/accounting-and-finance
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/architecture
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/banking-and-finance
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/building-surveying
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/audio-and-music-technology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/biomedical-science
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/biomedical-science-with-foundation-year
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/business-and-human-resource-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/business-economics
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/civil-engineering
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/business-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/computer-games-art
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/business-management-and-finance
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/civil-engineering-beng
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/civil-engineering-meng
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/business-management-and-leadership
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/computer-gaming-technology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/computer-gaming-technology-with-foundation-year
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/computer-networks
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/computer-science
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/crime-and-investigative-studies-with-foundation-year
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/construction-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/crime-and-investigative-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/criminology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/criminology-and-sociology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/cyber-security
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/digital-media
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/drama-and-film-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/drama
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/drama-and-english-literature
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/early-childhood-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/electronic-engineering
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/english-language
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/english-language-and-english-language-teaching
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/english-language-and-linguistics
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/events-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/english-literature
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/film-and-television-production
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/english-literature-peterborough
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/fashion-design
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/film-studies-and-media-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/film-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/graphic-design
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/finance-and-business-analytics
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/fine-art
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/forensic-science
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/electronic-music
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/forensic-science-with-foundation-year
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/history
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/illustration
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/illustration-and-animation
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/interior-design
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/international-business-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/law
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/marine-biology-with-conservation-and-biodiversity
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/marine-biology-with-conservation-and-biodiversity-with-foundation-year
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/marketing
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/mechanical-engineering
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/mechanical-engineering-meng
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/media-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/media-studies-peterborough
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/medical-engineering
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/medical-science
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/medical-science-with-foundation-year
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/midwifery
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/music
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/nursing-adult
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/nursing-child
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/nursing-mental-health
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/operating-department-practice
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/ophthalmic-dispensing
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/ophthalmic-dispensing-with-foundation-year
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/optometry
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/paramedic-science
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/performing-arts
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/pharmaceutical-science
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/pharmaceutical-science-with-foundation-year
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/philosophy
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/philosophy-and-english-literature
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/photography
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/policing-and-criminal-justice
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/politics
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/primary-education-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/popular-music
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/public-health
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/psychology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/sociology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/psychology-and-criminology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/social-policy
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/social-work
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/quantity-surveying
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/sociology-peterborough
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/sports-coaching-and-physical-education-with-foundation-year
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/sports-science
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/sports-science-with-foundation-year
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/software-development
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/tourism-management
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/sports-coaching-and-physical-education
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/writing-and-english-literature
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/writing-and-film-studies
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/zoology
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.anglia.ac.uk/study/undergraduate/zoology-with-foundation-year
+========================
