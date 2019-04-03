@@ -1,0 +1,12 @@
+'list' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/undergraduate/bachelor-of-arts?studentType=international
+========================
+'list' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/undergraduate/bachelor-of-arts?studentType=international
+========================
+'list' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/undergraduate/bachelor-of-arts?studentType=international
+========================
+name 'modules_en' is not defined
+https://api.coursefinder.mq.edu.au/api/2019/international/undergraduate/bachelor-of-arts?studentType=international
+========================

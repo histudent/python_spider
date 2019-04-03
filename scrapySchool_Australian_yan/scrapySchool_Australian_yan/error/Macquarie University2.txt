@@ -1,0 +1,57 @@
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-politics-and-public-policy-with-the-degree-of-master-of-policy-and-applied-social-research?studentType=international
+========================
+HTTPSConnectionPool(host='api.coursefinder.mq.edu.au', port=443): Max retries exceeded with url: /api/2019/international/postgraduate/master-of-planning-environmental-planning?studentType=international (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-planning?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-security-and-strategic-studies-with-the-degree-of-master-of-counter-terrorism?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-creative-industries-with-the-degree-of-master-of-media?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-international-business-with-the-degree-of-master-of-international-relations?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-counter-terrorism-with-the-degree-of-master-of-criminology?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/juris-doctor?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-intelligence-with-the-degree-of-master-of-counter-terrorism?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-intelligence-with-the-degree-of-master-of-criminology?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-cyber-security-with-the-degree-of-master-of-criminology?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-translation-and-interpreting-studies-with-the-degree-of-master-of-international-relations?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-security-and-strategic-studies-with-the-degree-of-master-of-criminology?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/doctor-of-physiotherapy?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-security-and-strategic-studies-with-the-degree-of-master-of-intelligence?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-security-and-strategic-studies-with-the-degree-of-master-of-cyber-security?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/doctor-of-medicine?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-cyber-security-with-the-degree-of-master-of-counter-terrorism?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-intelligence-with-the-degree-of-master-of-cyber-security?studentType=international
+========================
+'NoneType' object has no attribute 'get'
+https://api.coursefinder.mq.edu.au/api/2019/international/postgraduate/master-of-translation-and-interpreting-studies-with-the-degree-of-master-of-applied-linguistics-and-tesol?studentType=international
+========================

@@ -1,0 +1,7 @@
+HTTPSConnectionPool(host='www.ed.ac.uk', port=443): Max retries exceeded with url: /studying/undergraduate/fees?programme_code=UTITALI (Caused by SSLError(SSLError("bad handshake: SysCallError(-1, 'Unexpected EOF')",),))
+https://www.ed.ac.uk/studying/undergraduate/degrees/index.php?action=programme&code=RQ31
+========================HTTPSConnectionPool(host='www.ed.ac.uk', port=443): Max retries exceeded with url: /studying/undergraduate/fees?programme_code=UTCVENM (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://www.ed.ac.uk/studying/undergraduate/degrees/index.php?action=programme&code=H203
+========================('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+https://www.ed.ac.uk/studying/undergraduate/degrees/index.php?action=programme&code=T633
+========================

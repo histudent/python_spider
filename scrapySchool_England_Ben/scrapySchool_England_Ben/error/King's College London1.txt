@@ -1,0 +1,205 @@
+XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/geography-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/politics-philosophy-and-law-llb.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-intelligent-systems-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/german-and-music-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/undergraduate-summer-school.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/french-with-film-studies-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/sport-and-exercise-medical-sciences-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/molecular-genetics-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/nutrition-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-and-molecular-genetics-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/spanish-with-film-studies-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-medicine-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-entry-programme-for-medical-graduates-bds.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-graduate-professional-entry-bds.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/enhanced-support-dentistry-programme-bds.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-an-adult-nurse-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/clinical-practice-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-bds.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/nursing-studies-for-healthcare-professionals-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-childrens-nurse-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/midwifery-with-registration-as-a-midwife-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/nursing-with-registration-as-a-mental-health-nurse-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/biomedical-science-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-ibsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-msci.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-msci.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/neuroscience-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/molecular-genetics-msci.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/physiology-ibsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/nutrition-and-dietetics-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/music-bmus.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/film-studies-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/physiotherapy-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/digital-culture-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/anatomy-developmental-and-human-biology-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/german-with-film-studies-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-robotics-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/pre-university-summer-school.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-in-industry-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-in-industry-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-a-year-abroad-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/pharmacy-mpharm.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-medicine-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-and-a-year-abroad-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/liberal-arts-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-and-philosophy-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/theology-religion-and-culture-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-management-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-with-film-studies-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-politics-and-economics-ba-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/religion-politics-and-society-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/religion-philosophy-and-ethics-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-and-philosophy-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/philosophy-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/physics-and-philosophy-msci.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/french-and-philosophy-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/french-and-spanish-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/french-and-history-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-spanish-pathway-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/german-with-english-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-french-pathway-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/german-and-management-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/english-with-film-studies-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/german-and-spanish-with-a-year-abroad--ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/european-studies-german-pathway-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/english-language-and-linguistics-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/german-and-history-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/comparative-literature-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/german-and-portuguese-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/english-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/classical-studies-and-french-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/french-with-english-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/german-with-a-year-abroad-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-a-year-abroad-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/physics-msci.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/medicine-mbbs.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/accounting-finance-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/dentistry-entry-programme-for-medical-graduates-bds.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/medicine-graduate-professional-entry-mbbs.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/english-law-hong-kong-law-llb-llm.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/sport-and-exercise-medical-sciences-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/pharmacology-ibsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/global-health-and-social-medicine-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/pharmacy-mpharm.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/mathematics-msci.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/physics-with-theoretical-physics-msci.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-intelligent-systems-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/midwifery-with-registration-as-a-midwife-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-with-robotics-bsc.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/computer-science-msci.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/international-development-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/biochemistry-msci.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/kings-international-foundation-biology-and-chemistry.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-placement-msci.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/war-studies-ba.aspx
+========================XPath error: Invalid expression in //b[contains(text(),'The interview')]/..|//b[contains(text(),'The interview')]/../following-sibling::*[position()<3]]|//b[contains(text(),'Interviewing')]/../following-sibling::*[1]
+https://www.kcl.ac.uk/study/undergraduate/courses/chemistry-with-biomedicine-with-year-in-placement.aspx
+========================

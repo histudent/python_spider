@@ -1,0 +1,5 @@
+'NoneType' object has no attribute 'get'
+https://www.jbs.cam.ac.uk/programmes/master-of-finance-mfin/
+========================'NoneType' object has no attribute 'get'
+https://www.jbs.cam.ac.uk/programmes/mba/
+========================

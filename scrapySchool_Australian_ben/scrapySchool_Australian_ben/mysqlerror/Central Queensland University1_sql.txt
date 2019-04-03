@@ -1,0 +1,27 @@
+(1241, 'Operand should contain 1 column(s)')
+https://www.cqu.edu.au/courses/bachelor-of-accident-forensics
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.cqu.edu.au/courses/bachelor-of-science-chiropractic
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.cqu.edu.au/courses/bachelor-of-science
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.cqu.edu.au/courses/bachelor-of-medical-laboratory-science-honours
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.cqu.edu.au/courses/bachelor-of-science
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.cqu.edu.au/courses/bachelor-of-psychological-science
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.cqu.edu.au/courses/bachelor-of-nursing
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.cqu.edu.au/courses/bachelor-of-engineering-honours
+========================
+(1241, 'Operand should contain 1 column(s)')
+https://www.cqu.edu.au/courses/bachelor-of-creative-arts
+========================

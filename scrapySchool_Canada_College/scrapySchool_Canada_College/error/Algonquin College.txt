@@ -1,0 +1,3 @@
+HTTPSConnectionPool(host='www.algonquincollege.com', port=443): Max retries exceeded with url: /ro/pay/fee-estimator/?campus=ALL&startterm=2019F&residency=international&programFees=0422X01FWO (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://www.algonquincollege.com/healthandcommunity/program/recreation-and-leisure-services/
+========================

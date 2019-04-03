@@ -1,0 +1,46 @@
+Message: invalid selector: The result of the xpath expression "//div[@id='locations1']//div[@class='section no-padding-top']//div[@class='card card-content z-depth-0']//div[@class='is-domestic']//text()|//div[@id='fYear-campus']//text()" is: [object Text]. It should be an element.
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://futurestudents.csu.edu.au/courses/agricultural-wine-sciences/master-sustainable-agriculture
+========================
+Message: invalid selector: The result of the xpath expression "//div[@id='locations1']//div[@class='section no-padding-top']//div[@class='card card-content z-depth-0']//div[@class='is-domestic']//text()|//div[@id='fYear-campus']//text()" is: [object Text]. It should be an element.
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://futurestudents.csu.edu.au/courses/agricultural-wine-sciences/master-sustainable-agriculture
+========================
+Message: invalid selector: The result of the xpath expression "//div[@id='locations1']//div[@class='section no-padding-top']//div[@class='card card-content z-depth-0']//div[@class='is-domestic']//text()|//div[@id='fYear-campus']//text()" is: [object Text]. It should be an element.
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://futurestudents.csu.edu.au/courses/business/master-professional-accounting-16
+========================
+Message: invalid selector: The result of the xpath expression "//div[@id='locations1']//div[@class='section no-padding-top']//div[@class='card card-content z-depth-0']//div[@class='is-domestic']//text()|//div[@id='fYear-campus']//text()" is: [object Text]. It should be an element.
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://futurestudents.csu.edu.au/courses/agricultural-wine-sciences/master-sustainable-agriculture
+========================
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://futurestudents.csu.edu.au/courses/business/master-professional-accounting-16
+========================
+Message: invalid selector: The result of the xpath expression "//div[@id='locations1']//div[@class='section no-padding-top']//div[@class='card card-content z-depth-0']//div[@class='is-domestic']//text()|//div[@id='fYear-campus']//text()" is: [object Text]. It should be an element.
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://futurestudents.csu.edu.au/courses/agricultural-wine-sciences/master-sustainable-agriculture
+========================
+'str' object does not support item assignment
+https://futurestudents.csu.edu.au/courses/agricultural-wine-sciences/master-sustainable-agriculture
+========================
+'WebElement' object has no attribute 'innerhtml'
+https://futurestudents.csu.edu.au/courses/agricultural-wine-sciences/master-sustainable-agriculture
+========================
+'WebElement' object has no attribute 'innerHtml'
+https://futurestudents.csu.edu.au/courses/agricultural-wine-sciences/master-sustainable-agriculture
+========================

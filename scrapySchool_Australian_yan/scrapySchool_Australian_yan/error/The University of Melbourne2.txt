@@ -1,0 +1,1616 @@
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-and-cultural-heritage/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tax/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-production-design-for-screen/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-property/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-design/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-planning/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-horticulture/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-public-and-international-law/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-supply-chain-management/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-translation-enhanced/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-mathematics-and-statistics/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-public-policy-and-management/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-studies/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-writing-for-performance/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tertiary-education-management/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-environmental-engineering/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tesol/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-early-childhood-and-primary/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-early-childhood/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-primary/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-secondary/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-secondary-internship/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-instructional-leadership/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-international-education-international-baccalaureate/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-modern-languages-education/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-learning-intervention/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-education/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-science/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-food-and-packaging-innovation/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-veterinary-medicine/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-producing/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-screenwriting/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-public-health/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-agricultural-sciences/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-food-science/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-dramaturgy/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-film-and-television/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-music-opera-performance/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-music-orchestral-performance/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-music-performance-teaching/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-music-therapy/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-directing-for-performance/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-contemporary-art/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-dance/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-translation/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-electrical/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-environmental/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-materials/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-mechanical-with-aerospace/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-mechanical/
+========================
+XPath error: Invalid expression in 
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-mechatronics/
+========================
+object of type 'WebElement' has no len()
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-biosciences/
+========================
+object of type 'WebElement' has no len()
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-computer-science/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-and-cultural-heritage/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-ecosystem-management-and-conservation/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-earth-sciences/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-horticulture/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-ecosystem-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-computer-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-youth-mental-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-intellectual-property-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-architectural-engineering/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-planning/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tertiary-education-management/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-physiotherapy/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-adolescent-health-and-wellbeing/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tax/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-youth-mental-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-optometry/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tertiary-education-management/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-nursing-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-surgical-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-narrative-therapy-and-community-work/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-public-and-international-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-and-cultural-heritage/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-horticulture/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-supply-chain-management/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-planning/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-studies/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-geography/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-ecosystem-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-science/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-modern-languages-education/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-evaluation/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-international-education-international-baccalaureate/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-educational-psychology/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-instructional-leadership/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-adolescent-health-and-wellbeing/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-health-and-human-services/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-narrative-therapy-and-community-work/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-medicine/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-health-and-medical-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-medicine-radiology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-genetic-counselling/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-genomics-and-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tax/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-youth-mental-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-epidemiology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-primary/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-supply-chain-management/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-translation-enhanced/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-ecosystem-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-public-policy-and-management/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-geography/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-studies/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-ecosystem-management-and-conservation/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-public-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-environmental-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-agricultural-sciences/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-food-science/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-primary/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-physiotherapy/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-early-childhood-and-primary/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-early-childhood/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-psychiatry/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tesol/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-narrative-therapy-and-community-work/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-secondary/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tax/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-youth-mental-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-information-systems-executive/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-finance/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-architectural-engineering/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-mathematics-and-statistics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-translation-enhanced/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-information-systems/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-studies/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-food-and-packaging-innovation/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-veterinary-medicine/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-public-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-agricultural-sciences/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-food-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-translation/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-publishing-and-communications/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-social-policy/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-journalism/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-criminology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-global-media-communication/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-development-studies/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-international-relations/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-international-journalism/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-supply-chain-management/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-applied-linguistics/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-and-cultural-heritage/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-planning/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-design/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-horticulture/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-production-design-for-screen/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-landscape-architecture/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-architectural-engineering/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-property/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tertiary-education-management/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-secondary-internship/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tesol/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-early-childhood/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tax/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-youth-mental-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-early-childhood-and-primary/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-primary/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-secondary/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-translation-enhanced/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-translation/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-youth-mental-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tertiary-education-management/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-surgical-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tax/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-narrative-therapy-and-community-work/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-music-performance-teaching/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-learning-intervention/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-psychiatry/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-narrative-therapy-and-community-work/
+========================
+'str' object has no attribute 'find_element_by_xpath'
+https://study.unimelb.edu.au/find/courses/graduate/master-of-adolescent-health-and-wellbeing/
+========================
+'WebElement' object has no attribute 'innerhtml'
+https://study.unimelb.edu.au/find/courses/graduate/master-of-economics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-youth-mental-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-cultural-materials-conservation/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-creative-writing-publishing-and-editing/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-horticulture/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-global-media-communication/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-criminology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-and-cultural-heritage/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-arts-and-cultural-management/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-development-studies/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-epidemiology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-planning/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-mathematics-and-statistics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-public-and-international-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-surgical-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-studies/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-food-and-packaging-innovation/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-surgical-education/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-agricultural-sciences/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-food-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-public-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-veterinary-medicine/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-medicine/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-medicine-radiology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-psychiatry-online/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-dental-surgery/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-epidemiology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-genetic-counselling/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-public-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-clinical-ultrasound/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-clinical-dentistry/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-writing-for-performance/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-adolescent-health-and-wellbeing/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-international-business/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-translation-enhanced/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-cultural-materials-conservation/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-economics/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-criminology/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-global-media-communication/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-arts-and-cultural-management/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-creative-writing-publishing-and-editing/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-development-studies/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-earth-sciences/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-adolescent-health-and-wellbeing/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-computer-science/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-mathematics-and-statistics/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-ecosystem-science/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/executive-master-of-arts/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-mechatronics/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-studies/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-chemical/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-creative-writing-publishing-and-editing/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-cultural-materials-conservation/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-criminology/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-planning/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-horticulture/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-design/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-production-design-for-screen/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-and-cultural-heritage/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-property/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-commerce-actuarial-science/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-business-analytics/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tax/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-supply-chain-management/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/senior-executive-master-of-business-administration/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-economics/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-biomedical-with-business/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-and-cultural-heritage/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-business-administration-part-time/
+========================
+argument of type 'NoneType' is not iterable
+https://study.unimelb.edu.au/find/courses/graduate/master-of-energy-and-resources-law/
+========================
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-narrative-therapy-and-community-work/
+========================
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-advanced-nursing-practice/
+========================
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-commercial-law/
+========================
+('Connection broken: IncompleteRead(0 bytes read)', IncompleteRead(0 bytes read))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-civil-with-business/
+========================
+Type 'str' cannot be serialized.
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-and-cultural-heritage/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-architectural-engineering/
+========================
+Type 'str' cannot be serialized.
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tax/
+========================
+Type 'str' cannot be serialized.
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-and-cultural-heritage/
+========================
+Type 'str' cannot be serialized.
+https://study.unimelb.edu.au/find/courses/graduate/master-of-translation/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-horticulture/
+========================
+Message: invalid argument: missing 'name'
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-horticulture/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-earth-sciences/
+========================
+Type 'str' cannot be serialized.
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-computer-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-landscape-architecture/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-translation-enhanced/
+========================
+Proxy-Connection: Close
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-ecosystem-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-mathematics-and-statistics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-public-and-international-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-directing-for-performance/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-dramaturgy/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-social-work/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-dance/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-medicine/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-health-and-human-services/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-physiotherapy/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-psychiatry-online/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-medicine-radiology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-nursing-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-optometry/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-clinical-optometry/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-clinical-research/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-clinical-ultrasound/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-dental-surgery/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-epidemiology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-genetic-counselling/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-genomics-and-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-clinical-audiology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-clinical-dentistry/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-cancer-sciences/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-advanced-social-work/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-advanced-nursing-practice-nurse-practitioner/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-applied-psychology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-biostatistics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-biotechnology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-advanced-nursing-practice/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-public-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-biomedical-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-advanced-nursing/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-adolescent-health-and-wellbeing/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-veterinary-medicine/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-food-and-packaging-innovation/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-advanced-nursing-practice-mental-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-private-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-agricultural-sciences/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-food-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-international-tax/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-law-and-development/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-health-and-medical-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-human-rights-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-intellectual-property-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-energy-and-resources-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-employment-and-labour-relations-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-geography/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-banking-and-finance-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-biosciences/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/juris-doctor/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-laws/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-commercial-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-environmental-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-environmental-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-secondary-internship/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-early-childhood-and-primary/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tesol/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-early-childhood/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-modern-languages-education/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-music-performance-teaching/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-narrative-therapy-and-community-work/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-secondary/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-psychiatry/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-instructional-leadership/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-international-education-international-baccalaureate/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-learning-intervention/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-primary/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-education-in-evidence-based-teaching/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-educational-psychology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-applied-positive-psychology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-clinical-education/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-tertiary-education-management/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-youth-mental-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-education/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-marketing/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-public-administration-enhanced/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-public-administration/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-finance/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-global-competition-and-consumer-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-management/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-laws-global-competition-and-consumer-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-enterprise/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-evaluation/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-business-administration-part-time/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-commerce-actuarial-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-entrepreneurship/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/executive-master-of-business-administration/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-management-accounting/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-management-accounting-and-finance/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-business-administration/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/senior-executive-master-of-business-administration/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-and-cultural-heritage/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-horticulture/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-design/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-planning/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-production-design-for-screen/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-property/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-actuarial-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-design-for-performance/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-landscape-architecture/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-architecture/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-construction-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-construction-management/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-applied-analytics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-computer-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-business-analytics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-applied-econometrics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-earth-sciences/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-environmental-engineering/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-geoscience/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-environment/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-management/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-structural/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-spatial/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-mechanical-with-business/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-bioinformatics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-information-systems-executive/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-information-systems/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-mechanical-with-aerospace/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-software/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-structures/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-software-with-business/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-mechanical/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-mechatronics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-materials/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-environmental/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-information-technology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-electrical-with-business/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-civil/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-electrical/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-biomedical-with-business/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-social-policy/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-publishing-and-communications/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-biomedical/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-public-policy-and-management/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-chemical-with-business/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-marketing-communications/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-journalism/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-development-studies/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-cultural-materials-conservation/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-criminology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-creative-writing-publishing-and-editing/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-art-curatorship/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-applied-linguistics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-ageing/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-chemical/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-computational-biology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-architectural-engineering/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-management-marketing/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-management-finance/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-data-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/executive-master-of-arts/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-ecosystem-management-and-conservation/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-arts-and-cultural-management/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-psychology-clinical-neuropsychology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-management-human-resources/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-rehabilitation-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-energy-systems/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-public-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-biochemical/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-sports-medicine/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-chemistry/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-contemporary-art/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-film-and-television/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-surgical-education/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-music-orchestral-performance/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-music-opera-performance/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-psychology-clinical-psychology-doctor-of-philosophy/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-music-therapy/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-producing/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-civil-with-business/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-psychology-clinical-psychology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-sports-rehabilitation/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-speech-pathology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-writing-for-performance/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-surgical-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-screenwriting/
+========================
+Message: timeout
+  (Session info: chrome=71.0.3578.80)
+  (Driver info: chromedriver=73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72),platform=Windows NT 10.0.17134 x86_64)
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-environmental-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-geoscience/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-environmental-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-landscape-architecture/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-environmental/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-environmental-engineering/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-biosciences/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-publishing-and-communications/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-geography/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-laws/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-environment/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-international-business/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-marketing-communications/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-international-relations/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-global-media-communication/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-applied-positive-psychology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/executive-master-of-arts/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-art-curatorship/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-primary/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-secondary/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-teaching-early-childhood/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-computational-biology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-physics/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-ageing/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-youth-mental-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-science-ecosystem-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-biomedical-with-business/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-biomedical/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/master-of-surgical-education/fees/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-surgical-education/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/master-of-nursing-science/where-will-this-take-me/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-nursing-science/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/master-of-sports-rehabilitation/what-will-i-study/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-sports-rehabilitation/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/master-of-health-and-medical-law/where-will-this-take-me/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-health-and-medical-law/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/doctor-of-dental-surgery/where-will-this-take-me/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-dental-surgery/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/master-of-sports-medicine/what-will-i-study/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-sports-medicine/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/juris-doctor/what-will-i-study/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/juris-doctor/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/master-of-energy-and-resources-law/what-will-i-study/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-energy-and-resources-law/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/master-of-construction-law/what-will-i-study/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-construction-law/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/master-of-global-competition-and-consumer-law/what-will-i-study/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-global-competition-and-consumer-law/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/master-of-human-rights-law/what-will-i-study/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-human-rights-law/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/master-of-intellectual-property-law/what-will-i-study/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-intellectual-property-law/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/master-of-laws-global-competition-and-consumer-law/what-will-i-study/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-laws-global-competition-and-consumer-law/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/master-of-actuarial-science/entry-requirements/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-actuarial-science/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/master-of-private-law/what-will-i-study/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-private-law/
+========================
+HTTPSConnectionPool(host='study.unimelb.edu.au', port=443): Max retries exceeded with url: /find/courses/graduate/master-of-public-and-international-law/what-will-i-study/ (Caused by ProxyError('Cannot connect to proxy.', RemoteDisconnected('Remote end closed connection without response',)))
+https://study.unimelb.edu.au/find/courses/graduate/master-of-public-and-international-law/
+========================
+Proxy-Connection: Close
+
+https://study.unimelb.edu.au/find/courses/graduate/master-of-business-administration/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-public-administration/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-urban-planning/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-producing/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-music-therapy/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-music-orchestral-performance/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-production-design-for-screen/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-food-and-packaging-innovation/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/doctor-of-veterinary-medicine/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-food-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-screenwriting/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-agricultural-sciences/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-science/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-veterinary-public-health/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-banking-and-finance-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-employment-and-labour-relations-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-electrical-with-business/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-biotechnology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-cancer-sciences/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-commercial-law/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-clinical-audiology/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-energy-systems/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-engineering-civil-with-business/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-translation-enhanced/
+========================
+[WinError 6] 句柄无效。
+https://study.unimelb.edu.au/find/courses/graduate/master-of-ecosystem-management-and-conservation/
+========================

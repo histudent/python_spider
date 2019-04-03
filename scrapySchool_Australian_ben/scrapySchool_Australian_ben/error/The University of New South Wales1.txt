@@ -1,0 +1,3 @@
+HTTPSConnectionPool(host='www.handbook.unsw.edu.au', port=443): Max retries exceeded with url: /undergraduate/specialisations/2018/3409DevelopmentStudies.html (Caused by SSLError(SSLError("bad handshake: SysCallError(10060, 'WSAETIMEDOUT')",),))
+http://legacy.handbook.unsw.edu.au/undergraduate/programs/2018/3409.html
+========================
