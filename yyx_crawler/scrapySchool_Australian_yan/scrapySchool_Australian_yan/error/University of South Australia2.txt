@@ -1,0 +1,12 @@
+list index out of range
+http://study.unisa.edu.au/degrees/master-of-medical-sonography-full-fee-paying/dom
+========================
+list index out of range
+http://study.unisa.edu.au/degrees/master-of-teaching-secondary
+========================
+list index out of range
+http://study.unisa.edu.au/degrees/master-of-teaching-primary
+========================
+list index out of range
+http://study.unisa.edu.au/degrees/4042-7317
+========================

@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02f9995b-0b1d-4c30-9736-119299724afc" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/weihongbo_England$University_of_Worcester2_P.coverage" NAME="University_of_Worcester2_P Coverage Results" MODIFIED="1534251102311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weihongbo_England/spiders" />
+    <SUITE FILE_PATH="coverage/weihongbo_England$text.coverage" NAME="text Coverage Results" MODIFIED="1534381002605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weihongbo_England/spiders" />
+    <SUITE FILE_PATH="coverage/weihongbo_England$main.coverage" NAME="main Coverage Results" MODIFIED="1535021088780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weihongbo_England" />
+    <SUITE FILE_PATH="coverage/weihongbo_England_U$main.coverage" NAME="main Coverage Results" MODIFIED="1542246657896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weihongbo_England" />
+    <SUITE FILE_PATH="coverage/weihongbo_England$ielts_toefl.coverage" NAME="ielts_toefl Coverage Results" MODIFIED="1531901909783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weihongbo_England" />
+    <SUITE FILE_PATH="coverage/weihongbo_England$items.coverage" NAME="items Coverage Results" MODIFIED="1532348610567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weihongbo_England" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weihongbo_England/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1760">
+              <caret line="88" column="1" lean-forward="false" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/text.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8020">
+              <caret line="345" column="68" lean-forward="false" selection-start-line="345" selection-start-column="68" selection-end-line="345" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="York_St_John_University_U.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/York_St_John_University_U.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="172" column="101" lean-forward="false" selection-start-line="172" selection-start-column="101" selection-end-line="172" selection-end-column="101" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#327#85292#0" expanded="false" />
+                <element signature="e#85318#85375#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Arts_University_Bournemouth_U.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Arts_University_Bournemouth_U.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8820">
+              <caret line="447" column="0" lean-forward="false" selection-start-line="447" selection-start-column="0" selection-end-line="447" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Heriot-Watt_University_U.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Heriot-Watt_University_U.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6580">
+              <caret line="475" column="53" lean-forward="false" selection-start-line="475" selection-start-column="53" selection-end-line="475" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#327#12995#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="The_University_of_Warwick_U.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/The_University_of_Warwick_U.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="231" column="48" lean-forward="false" selection-start-line="231" selection-start-column="48" selection-end-line="231" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#330#16611#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>career</find>
+      <find>CAREERS AND EMPLOYABILITY</find>
+      <find>modu</find>
+      <find>duration</find>
+      <find>print</find>
+      <find>ENTRY REQUIREMENTS</find>
+      <find>Assessment</find>
+      <find>Assessments</find>
+      <find>dura</find>
+      <find>失败</find>
+      <find>ib</find>
+      <find>International Baccalaureate</find>
+      <find>IELTS</find>
+      <find>IELTS</find>
+      <find>wes</find>
+      <find>Edinburg</find>
+      <find>CAR</find>
+      <find>ucascode</find>
+      <find>Apply through UCAS</find>
+      <find>Apply throug</find>
+      <find>GC18</find>
+      <find>wx</find>
+      <find>DUR</find>
+      <find>N/A</find>
+      <find>ucas</find>
+      <find>alev</find>
+      <find>start</find>
+      <find>MODU</find>
+      <find>over</find>
+      <find>caree</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/weihongbo_England/ielts_toefl.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/UCAS_mode.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Arts_University_Bournemouth.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/middlewares.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/settings.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Winchester_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Arts_University_Bournemouth_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Arts_University_Bournemouth_U.py" />
+        <option value="$PROJECT_DIR$/University_of_East_London_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Falmouth_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Abertay_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester2_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Kent_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Wales_Trinity_Saint_David_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Canterbury_Christ_Church_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Edinburgh_Napier_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_the_West_of_Scotland_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Lancaster_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_East_London_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Bishop_Grosseteste_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Glasgow_Caledonian_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Westminster_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Lancaster_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Birkbeck_University_of_London_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/The_University_of_Warwick_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/items.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/pipelines.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Birmingham_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Heriot-Watt_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Bishop_Grosseteste_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Falmouth_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Glasgow_Caledonian_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Abertay_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Canterbury_Christ_Church_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/York_St_John_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Winchester_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Birkbeck_University_of_London_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Wales_Trinity_Saint_David_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Westminster_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Edinburgh_Napier_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_the_West_of_Scotland_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_East_London_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/York_St_John_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/main.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/text.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2" />
+    <option name="y" value="592" />
+    <option name="width" value="1936" />
+    <option name="height" value="726" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="weihongbo_England_U" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weihongbo_England_U" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weihongbo_England_U" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weihongbo_England_U" type="462c0819:PsiDirectoryNode" />
+              <item name="weihongbo_England" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weihongbo_England_U" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weihongbo_England_U" type="462c0819:PsiDirectoryNode" />
+              <item name="weihongbo_England" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python_Spider\weihongbo_England\weihongbo_England" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="University_of_Worcester2_P" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weihongbo_England/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weihongbo_England" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester2_P.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="ielts_toefl" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weihongbo_England" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weihongbo_England" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weihongbo_England/ielts_toefl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="items" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weihongbo_England" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weihongbo_England" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weihongbo_England/items.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weihongbo_England" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weihongbo_England" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weihongbo_England/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weihongbo_England/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="weihongbo_England" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weihongbo_England/spiders/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.ielts_toefl" />
+      <item index="1" class="java.lang.String" itemvalue="Python.items" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main" />
+      <item index="3" class="java.lang.String" itemvalue="Python.University_of_Worcester2_P" />
+      <item index="4" class="java.lang.String" itemvalue="Python.text" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.text" />
+        <item index="2" class="java.lang.String" itemvalue="Python.University_of_Worcester2_P" />
+        <item index="3" class="java.lang.String" itemvalue="Python.items" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ielts_toefl" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02f9995b-0b1d-4c30-9736-119299724afc" name="Default" comment="" />
+      <created>1531892139469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531892139469</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1546875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7476241" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44456178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2234375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="21" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/ielts_toefl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/York_St_John_University_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Abertay_University_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Abertay_University_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="544" column="18" lean-forward="true" selection-start-line="544" selection-start-column="18" selection-end-line="544" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Birkbeck_University_of_London_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="654" column="18" lean-forward="true" selection-start-line="654" selection-start-column="18" selection-end-line="654" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Bishop_Grosseteste_University_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Bishop_Grosseteste_University_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8580">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Canterbury_Christ_Church_University_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Canterbury_Christ_Church_University_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8420">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Edinburgh_Napier_University_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9340">
+          <caret line="18" column="55" lean-forward="false" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Falmouth_University_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Falmouth_University_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9480">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Glasgow_Caledonian_University_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Glasgow_Caledonian_University_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10400">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Lancaster_University_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11180">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/UCAS_mode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Birmingham_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="740" column="18" lean-forward="true" selection-start-line="740" selection-start-column="18" selection-end-line="740" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_East_London_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_East_London_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="585" column="23" lean-forward="false" selection-start-line="585" selection-start-column="23" selection-end-line="585" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Kent_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_the_West_of_Scotland_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_the_West_of_Scotland_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11420">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Wales_Trinity_Saint_David_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Wales_Trinity_Saint_David_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13320">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Westminster_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Westminster_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="626" column="18" lean-forward="true" selection-start-line="626" selection-start-column="18" selection-end-line="626" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Winchester_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Winchester_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9060">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester2_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13660">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/ielts_toefl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Arts_University_Bournemouth_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8820">
+          <caret line="447" column="0" lean-forward="false" selection-start-line="447" selection-start-column="0" selection-end-line="447" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Arts_University_Bournemouth_P.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/scrapy/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="88" column="8" lean-forward="false" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/York_St_John_University_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="172" column="101" lean-forward="false" selection-start-line="172" selection-start-column="101" selection-end-line="172" selection-end-column="101" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#327#85292#0" expanded="false" />
+            <element signature="e#85318#85375#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Heriot-Watt_University_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6580">
+          <caret line="475" column="53" lean-forward="false" selection-start-line="475" selection-start-column="53" selection-end-line="475" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#327#12995#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/The_University_of_Warwick_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="231" column="48" lean-forward="false" selection-start-line="231" selection-start-column="48" selection-end-line="231" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#330#16611#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Edinburgh_Napier_University_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Birkbeck_University_of_London_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Lancaster_University_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/York_St_John_University_P.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="88" column="1" lean-forward="false" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8020">
+          <caret line="345" column="68" lean-forward="false" selection-start-line="345" selection-start-column="68" selection-end-line="345" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

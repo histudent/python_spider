@@ -1,0 +1,29 @@
+【注】 spider名和爬取名统一一样，不留空格，如：
+        SwanseaUniversityPrifysgolAbertawe_U
+        spider类名：SwanseaUniversityPrifysgolAbertawe_USpider
+
+1、clearSpace.py
+    （1）对字符串进行循环处理，去除\n\r\t标签，以及行首行尾空格
+    clear_space_str(str):
+
+    （2）对列表进行循环处理，去除\n\r\t标签，以及行首行尾空格
+    clear_space(templist):
+
+    （3）去除列表中连续的空格
+    clear_lianxu_space(templist):
+
+2、getIELTS.py
+    # 仅限于两个分数的，一个总分，一个统一的小分
+    （1）从文本中正则匹配雅思分数进行拆分， 返回一个雅思字典
+    get_ielts(ieltsStr)
+
+    （2）从文本中正则匹配托福分数进行拆分， 返回一个托福字典
+    def get_toefl(toeflStr)
+
+3、getItem.py
+    # 初始化item字典
+    get_item(itemClass)
+
+4、getTuition_fee.py
+    # 获取学费当中的最大值
+    getTuition_fee(str)

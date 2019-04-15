@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7374a9e3-fc15-4bb4-aecf-804b95e118f7" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/scrapySchool_England_Ben$main.coverage" NAME="main Coverage Results" MODIFIED="1551764539051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scrapySchool_England_Ben$countCodeLine1.coverage" NAME="countCodeLine1 Coverage Results" MODIFIED="1535615016818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapySchool_England_Ben" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AstonUniversity_U.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/AstonUniversity_U.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2990">
+              <caret line="238" column="62" lean-forward="false" selection-start-line="238" selection-start-column="53" selection-end-line="238" selection-end-column="62" />
+              <folding>
+                <element signature="e#1413#7369#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniversityOfLincoln_U.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfLincoln_U.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="20" column="161" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="161" />
+              <folding>
+                <element signature="e#1551#1611#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniversityOfWestLondon_U.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfWestLondon_U.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="219" column="18" lean-forward="false" selection-start-line="219" selection-start-column="18" selection-end-line="219" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniversityOfChester_U.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfChester_U.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="124" column="36" lean-forward="true" selection-start-line="124" selection-start-column="36" selection-end-line="124" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UniversityOfChichester_U.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfChichester_U.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="29" column="54" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="29" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>module</find>
+      <find>item['assessment_en']</find>
+      <find>https://www.uclan.ac.uk/courses/beng-hons-robotics-engineering-foundation-entry.php</find>
+      <find>over</find>
+      <find>===============================</find>
+      <find>item['alevel'] =  None</find>
+      <find>https://www.strath.ac.uk/courses/undergraduate/appliedchemistrychemicalengineering/</find>
+      <find>item['alevel'] =  n</find>
+      <find>https://www.strath.ac.uk/courses/undergraduate/lawwithspanish/</find>
+      <find>course detail</find>
+      <find>Teaching</find>
+      <find>Course detail</find>
+      <find>===========================</find>
+      <find>item['alevel']:  None</find>
+      <find>https://www.herts.ac.uk/courses/ba-hons-politics-and-international-relations-with-optional-sandwich-placement-study-abroad</find>
+      <find>https://www.herts.ac.uk/courses/master-of-optometry-moptom</find>
+      <find>https://www.herts.ac.uk/courses/bsc-hons-nursing-mental-health</find>
+      <find>item['alevel']:  n</find>
+      <find>https://www.uclan.ac.uk/courses/bsc_hons_computer_games_development.php</find>
+      <find>item['ib']:  n</find>
+      <find>https://www.uclan.ac.uk/courses/beng-aerospace-engineering-with-pilot-studies.php</find>
+      <find>item['ib']:  None</find>
+      <find>item['tuition_fee'] =  n</find>
+      <find>https://www1.chester.ac.uk/study/undergraduate/business-management-shrewsbury/201909?mode=392-10409</find>
+      <find>C112</find>
+      <find>item['modules_en']:  n</find>
+      <find>batch</find>
+      <find>batc</find>
+      <find>duration_</find>
+      <find>tuition</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/items.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/AstonUniversity_P.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/SwanseaUniversity_P.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/pipelines.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/error/Swansea University1_sql.txt" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/LoughboroughUniversity_P.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/TheUniversityOfSheffield_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfReading_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/NewcastleUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/Queen'sUniversityBelfast_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/getItem.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/LiverpoolHopeUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/getDuration.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfChichester_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/StGeorge's,UniversityOfLondon_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/AberystwythUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/CardiffMetropolitanUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfSalford_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/NottinghamTrentUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/SouthamptonSolentUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/BathSpaUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfBolton_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/Heriot-WattUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfPlymouth_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfWestLondon_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfBristol_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfCambridge_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/remove_tags.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfPortsmouth_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/TheUniversityOfManchester_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfStrathclyde_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/stl.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfHertfordshire_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfCentralLancashire_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfSurrey_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfChester_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfLincoln_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfBradford_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/TheUniversityOfEdinburgh_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/settings.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/KingCollegeLondon_U.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/AstonUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/SwanseaUniversity_U.py" />
+        <option value="$PROJECT_DIR$/scrapySchool_England_Ben/spiders/LoughboroughUniversity_U.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2391" />
+    <option name="y" value="-9" />
+    <option name="width" value="2418" />
+    <option name="height" value="1318" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="scrapySchool_England_Ben" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapySchool_England_Ben" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapySchool_England_Ben" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapySchool_England_Ben" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapySchool_England_Ben" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scrapySchool_England_Ben" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scrapySchool_England_Ben" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapySchool_England_Ben" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../automatic/automatic_update" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="countCodeLine1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapySchool_England_Ben" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scrapySchool_England_Ben" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapySchool_England_Ben/countCodeLine1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scrapySchool_England_Ben" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.countCodeLine1" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.countCodeLine1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7374a9e3-fc15-4bb4-aecf-804b95e118f7" name="Default" comment="" />
+      <created>1531705456612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531705456612</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2391" y="-9" width="2418" height="1318" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.400906" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37372592" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20435153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40156114" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32870772" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19283277" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/getIELTS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/clearSpace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/getDuration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="106" lean-forward="false" selection-start-line="4" selection-start-column="106" selection-end-line="4" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/University of Chester1.txt" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/error/University of Central Lancashire1.txt" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/error/Bath Spa University1.txt" />
+    <entry file="file://$PROJECT_DIR$/University of Salford2.txt" />
+    <entry file="file://$PROJECT_DIR$/University of Bradford1.txt" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/error/University of Bradford1.txt" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/error/University of Chester1.txt" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/error/University of Bristol1.txt" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/countCodeLine1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/remove_tags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/AberystwythUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="94" column="61" lean-forward="false" selection-start-line="94" selection-start-column="48" selection-end-line="94" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/Heriot-WattUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="47" column="52" lean-forward="false" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/stl.py" />
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/getItem.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="57" column="9" lean-forward="true" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="38" column="42" lean-forward="false" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="776">
+          <caret line="68" column="1" lean-forward="false" selection-start-line="68" selection-start-column="1" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/CardiffMetropolitanUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/SouthamptonSolentUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="88" column="143" lean-forward="false" selection-start-line="88" selection-start-column="17" selection-end-line="88" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/StGeorge's,UniversityOfLondon_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="124" column="125" lean-forward="true" selection-start-line="121" selection-start-column="46" selection-end-line="124" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfBolton_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1992">
+          <caret line="50" column="25" lean-forward="false" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfBradford_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2308">
+          <caret line="223" column="7" lean-forward="false" selection-start-line="223" selection-start-column="7" selection-end-line="223" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfCentralLancashire_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2671">
+          <caret line="82" column="62" lean-forward="false" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfHertfordshire_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="82" column="145" lean-forward="true" selection-start-line="82" selection-start-column="78" selection-end-line="82" selection-end-column="145" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfSalford_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2182">
+          <caret line="49" column="51" lean-forward="true" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/LoughboroughUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="34" column="89" lean-forward="false" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfCambridge_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfBristol_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="23" column="166" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfSurrey_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="18" column="36" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/TheUniversityOfSheffield_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="19" column="69" lean-forward="false" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/TheUniversityOfEdinburgh_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="17" column="98" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/TheUniversityOfManchester_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="436" column="80" lean-forward="false" selection-start-line="436" selection-start-column="19" selection-end-line="436" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/NewcastleUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="67" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/BathSpaUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="86" column="150" lean-forward="false" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/KingCollegeLondon_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="11" column="72" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfReading_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4128">
+          <caret line="186" column="75" lean-forward="true" selection-start-line="186" selection-start-column="17" selection-end-line="186" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/SwanseaUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="16" column="149" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="149" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/Queen'sUniversityBelfast_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="16" column="71" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfStrathclyde_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="125" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="125" />
+          <folding>
+            <element signature="e#1011#1021#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/NottinghamTrentUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="33" column="200" lean-forward="true" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="200" />
+          <folding>
+            <element signature="e#8199#21477#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfWestLondon_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="219" column="18" lean-forward="false" selection-start-line="219" selection-start-column="18" selection-end-line="219" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfChester_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="124" column="36" lean-forward="true" selection-start-line="124" selection-start-column="36" selection-end-line="124" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfChichester_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="29" column="54" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="29" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/LiverpoolHopeUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="18" column="67" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="67" />
+          <folding>
+            <element signature="e#6094#6980#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfPlymouth_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="15" column="94" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="94" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfPortsmouth_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="31" column="136" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="136" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/AstonUniversity_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2990">
+          <caret line="238" column="62" lean-forward="false" selection-start-line="238" selection-start-column="53" selection-end-line="238" selection-end-column="62" />
+          <folding>
+            <element signature="e#1413#7369#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapySchool_England_Ben/spiders/UniversityOfLincoln_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="20" column="161" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="161" />
+          <folding>
+            <element signature="e#1551#1611#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/weihongbo_England/spiders/text.py" line="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02f9995b-0b1d-4c30-9736-119299724afc" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/weihongbo_England_P$1.coverage" NAME="1 Coverage Results" MODIFIED="1540545584246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weihongbo_England/spiders" />
+    <SUITE FILE_PATH="coverage/weihongbo_England$University_of_Worcester2_P.coverage" NAME="University_of_Worcester2_P Coverage Results" MODIFIED="1534251102311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weihongbo_England/spiders" />
+    <SUITE FILE_PATH="coverage/weihongbo_England$items.coverage" NAME="items Coverage Results" MODIFIED="1532348610567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weihongbo_England" />
+    <SUITE FILE_PATH="coverage/weihongbo_England$ielts_toefl.coverage" NAME="ielts_toefl Coverage Results" MODIFIED="1531901909783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weihongbo_England" />
+    <SUITE FILE_PATH="coverage/weihongbo_England_P$run.coverage" NAME="run Coverage Results" MODIFIED="1540256481514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Hooli_My/picture" />
+    <SUITE FILE_PATH="coverage/weihongbo_England$text.coverage" NAME="text Coverage Results" MODIFIED="1534381002605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weihongbo_England/spiders" />
+    <SUITE FILE_PATH="coverage/weihongbo_England$main.coverage" NAME="main Coverage Results" MODIFIED="1535021088780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weihongbo_England" />
+    <SUITE FILE_PATH="coverage/weihongbo_England_P$BaiduImageSearch.coverage" NAME="BaiduImageSearch Coverage Results" MODIFIED="1540256477744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Hooli_My/picture" />
+    <SUITE FILE_PATH="coverage/weihongbo_England_P$main.coverage" NAME="main Coverage Results" MODIFIED="1548837137391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weihongbo_England" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weihongbo_England/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2225">
+              <caret line="89" selection-start-line="89" selection-end-line="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/text.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+              <folding>
+                <element signature="e#256#22470#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weihongbo_England/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Falmouth_University_P.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1455">
+              <caret line="73" column="55" selection-start-line="73" selection-start-column="55" selection-end-line="73" selection-end-column="55" />
+              <folding>
+                <element signature="e#323#3439#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weihongbo_England/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2400">
+              <caret line="96" column="21" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alevel</find>
+      <find>assess</find>
+      <find>car</find>
+      <find>caree</find>
+      <find>assessmen</find>
+      <find>assessment</find>
+      <find>over</find>
+      <find>overview</find>
+      <find>career</find>
+      <find>modules</find>
+      <find>module</find>
+      <find>Stage 1</find>
+      <find>None</find>
+      <find>Course structure</find>
+      <find>180</find>
+      <find>TIMEOUT</find>
+      <find>MY_USER_AGENT</find>
+      <find>h2</find>
+      <find>''</find>
+      <find>OVERVIEW</find>
+      <find>teach_type</find>
+      <find>ucascode</find>
+      <find>IELTS_S</find>
+      <find>ale</find>
+      <find>33333</find>
+      <find>overvi</find>
+      <find>n/a</find>
+      <find>view</find>
+      <find>N/A</find>
+      <find>h2&gt;Course structure&lt;/h2&gt;</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Arts_University_Bournemouth_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Arts_University_Bournemouth_U.py" />
+        <option value="$PROJECT_DIR$/University_of_East_London_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Abertay_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester2_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Kent_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Wales_Trinity_Saint_David_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Canterbury_Christ_Church_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Edinburgh_Napier_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_the_West_of_Scotland_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_East_London_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Bishop_Grosseteste_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Lancaster_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Birkbeck_University_of_London_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/The_University_of_Warwick_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/items.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Birmingham_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Heriot-Watt_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Bishop_Grosseteste_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Falmouth_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Glasgow_Caledonian_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Abertay_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Canterbury_Christ_Church_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/York_St_John_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Winchester_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Birkbeck_University_of_London_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Wales_Trinity_Saint_David_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Westminster_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Edinburgh_Napier_University_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_the_West_of_Scotland_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_East_London_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Lancaster_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Glasgow_Caledonian_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Falmouth_University_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/York_St_John_University_P.py" />
+        <option value="$USER_HOME$/Desktop/Hooli_My/picture/BaiduImageSearch.py" />
+        <option value="$USER_HOME$/Desktop/Hooli_My/picture/run.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/1.py" />
+        <option value="C:/Users/Public/Pictures/新建文件夹/Weihongbo123/Weihongbo/Birmingham/spiders/yaopian_HLJ.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/middlewares.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Westminster_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/University_of_Winchester_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/Sussex_university_P.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/alevel_ib_text_U.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/main.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/settings.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/spiders/text.py" />
+        <option value="$PROJECT_DIR$/weihongbo_England/pipelines.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-236" />
+    <option name="y" value="121" />
+    <option name="width" value="1920" />
+    <option name="height" value="1031" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="weihongbo_England_P" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="weihongbo_England_P" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="weihongbo_England" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="weihongbo_England_P" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="weihongbo_England" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spiders" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="weihongbo_England_P" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weihongbo_England_P" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weihongbo_England_P" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weihongbo_England_P" type="462c0819:PsiDirectoryNode" />
+              <item name="weihongbo_England" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weihongbo_England_P" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weihongbo_England_P" type="462c0819:PsiDirectoryNode" />
+              <item name="weihongbo_England" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scrapySchool_Canada_Ben" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python_Spider\weihongbo_England\weihongbo_England" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="weihongbo_England" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weihongbo_England/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weihongbo_England/spiders/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BaiduImageSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="weihongbo_England" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Hooli_My/picture" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Hooli_My/picture/BaiduImageSearch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="weihongbo_England" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weihongbo_England" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weihongbo_England/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="weihongbo_England" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Hooli_My/picture" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Hooli_My/picture/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="weihongbo_England" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weihongbo_England/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weihongbo_England/spiders/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.text" />
+      <item itemvalue="Python.BaiduImageSearch" />
+      <item itemvalue="Python.run" />
+      <item itemvalue="Python.1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.BaiduImageSearch" />
+        <item itemvalue="Python.text" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02f9995b-0b1d-4c30-9736-119299724afc" name="Default" comment="" />
+      <created>1531892139469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531892139469</updated>
+      <workItem from="1545963023621" duration="11367000" />
+      <workItem from="1547086772440" duration="13822000" />
+      <workItem from="1547537120823" duration="650000" />
+      <workItem from="1547603873515" duration="12432000" />
+      <workItem from="1548060040924" duration="21241000" />
+      <workItem from="1548637396420" duration="5564000" />
+      <workItem from="1548813585660" duration="4050000" />
+      <workItem from="1549938691367" duration="1310000" />
+      <workItem from="1550020394191" duration="2836000" />
+      <workItem from="1552540455958" duration="78000" />
+      <workItem from="1553050784031" duration="613000" />
+      <workItem from="1553067094325" duration="2459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="76422000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-157" y="81" width="1280" height="687" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32160392" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49840087" visible="true" weight="0.2567714" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50159913" side_tool="true" weight="0.5796316" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26354167" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.48680043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Data View" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Glasgow_Caledonian_University_U.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Lancaster_University_U.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/UCAS_mode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Birmingham_U.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_East_London_U.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Kent_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="627" column="19" lean-forward="true" selection-start-line="627" selection-start-column="19" selection-end-line="627" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_the_West_of_Scotland_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7900">
+          <caret line="119" column="61" selection-start-line="119" selection-start-column="61" selection-end-line="119" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_the_West_of_Scotland_U.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Wales_Trinity_Saint_David_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11560" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Wales_Trinity_Saint_David_U.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Westminster_U.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Winchester_U.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester2_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Worcester_U.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/ielts_toefl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/items.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Arts_University_Bournemouth_U.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Arts_University_Bournemouth_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/scrapy/spiders/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/York_St_John_University_U.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Heriot-Watt_University_U.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/The_University_of_Warwick_U.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Edinburgh_Napier_University_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="129" column="57" lean-forward="true" selection-start-line="129" selection-start-column="57" selection-end-line="129" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Birkbeck_University_of_London_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Lancaster_University_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7580">
+          <caret line="691" column="25" selection-start-line="691" selection-start-column="25" selection-end-line="691" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Hooli_My/picture/__init__.py" />
+    <entry file="file://$USER_HOME$/Desktop/Hooli_My/Weihongbo/Birmingham/pipelines.py" />
+    <entry file="file://$USER_HOME$/Desktop/Hooli_My/picture/BaiduImageSearch.py" />
+    <entry file="file://$USER_HOME$/Desktop/Hooli_My/picture/run.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/scrapyd/default_scrapyd.conf" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Users/Public/Pictures/新建文件夹/Weihongbo123/Weihongbo/Birmingham/spiders/yaopian_HLJ.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Glasgow_Caledonian_University_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7740">
+          <caret line="457" column="84" selection-start-line="457" selection-start-column="44" selection-end-line="457" selection-end-column="84" />
+          <folding>
+            <element signature="e#354#7913#0" expanded="false" />
+            <element signature="e#23150#23205#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/site-packages/scrapy/middleware.py" />
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Westminster_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+          <folding>
+            <element signature="e#321#440#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/York_St_John_University_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="110" column="16" selection-start-line="110" selection-start-column="16" selection-end-line="110" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/scrapy/item.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Sussex_university_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="668">
+          <caret line="397" lean-forward="true" selection-start-line="397" selection-end-line="397" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#322#975#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_East_London_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/alevel_ib_text_U.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="823">
+          <caret line="303" column="47" selection-start-line="303" selection-start-column="47" selection-end-line="303" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2225">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding>
+            <element signature="e#256#22470#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="96" column="21" selection-start-line="96" selection-start-column="21" selection-end-line="96" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/University_of_Winchester_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4988">
+          <caret line="499" column="27" lean-forward="true" selection-start-line="499" selection-start-column="27" selection-end-line="499" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weihongbo_England/spiders/Falmouth_University_P.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1455">
+          <caret line="73" column="55" selection-start-line="73" selection-start-column="55" selection-end-line="73" selection-end-column="55" />
+          <folding>
+            <element signature="e#323#3439#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

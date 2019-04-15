@@ -1,0 +1,1 @@
+@"d:\pycharm\hoolischool\scrapyschool_england\venv\scripts\python.exe" "d:\pycharm\hoolischool\scrapyschool_england\venv\Scripts\markdown_py" %*
