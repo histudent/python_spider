@@ -42,7 +42,7 @@ pytz==2017.3
 pywin32==222
 queuelib==1.4.2
 requests==2.18.4
-Scrapy==1.5.0
+Scrapy==1.8.1
 scrapy-djangoitem==1.1.1
 scrapy-splash==0.7.2
 scrapyd==1.2.0
